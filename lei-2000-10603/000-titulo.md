@@ -1,0 +1,5 @@
+# LEI Nº 10.603, DE 19 DE JUNHO DE 2000
+(Projeto de lei nº 672/99, do deputado Wilson Morais - PSDB)
+Da denominação à passarela que especifica.
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
