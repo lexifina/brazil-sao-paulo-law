@@ -1,0 +1,9 @@
+LEI N. 2.787, DE 15 DE ABRIL DE 1981
+Dá a
+denominação de "Engenheiro Agrônomo José
+Maria de Sant'Anna" à Casa da Agricultura de Jacareí
+A ASSEMBLÉIA LEGISLATIVA DO
+ESTADO DE SÃO PAULO DECRETA E EU, JANUÁRIO MANTELLI NETO,
+na qualidade de seu Presidente, promulgo, nos termos do § 4.°
+do Artigo 26 da Constituição do Estado (Emenda
+Constitucional n. 2, de 30 de outubro de 1969), a seguinte lei:
