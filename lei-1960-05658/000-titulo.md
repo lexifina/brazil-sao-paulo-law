@@ -1,0 +1,4 @@
+# LEI Nº 5.658, DE 11 DE MAIO DE 1960
+Dá denominação a estabelecimento de ensino.
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a
