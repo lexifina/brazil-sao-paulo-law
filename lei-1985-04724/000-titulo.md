@@ -1,0 +1,6 @@
+LEI N. 4.724, DE 27 DE SETEMBRO DE 1985
+Dá a denominação de
+"Prof.ª Leonilda Lopes Biasotto" à Escola Estadual de 1.º
+Grau (Agrupada) de Borborema, em Borborema
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
