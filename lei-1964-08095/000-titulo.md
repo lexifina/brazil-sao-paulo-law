@@ -1,0 +1,4 @@
+# LEI Nº 8.095, DE 03 DE ABRIL DE 1964
+DECLARA DE UTILIDADE PÚBLICA A SOCIEDADE SUIÇA DE BENEFICÊNCIA "HELVETIA", DESTA CAPITAL.
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
