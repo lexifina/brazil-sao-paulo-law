@@ -1,0 +1,4 @@
+# LEI Nº 8.650, DE 14 DE JANEIRO DE 1965
+DENOMINA "CÔNEGO JOSÉ AMARAL MELLO" AO GINÁSIO DE VILA NOVA CACHOEIRINHA, DESTA CAPITAL.
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
