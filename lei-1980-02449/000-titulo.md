@@ -1,0 +1,12 @@
+LEI N. 2.449, DE 16 DE SETEMBRO DE 1980
+Dá a denominação de «Virgínia Viel
+Campo Dall'Orto» ao acesso rodoviário que liga o
+Município de Sumaré à Rodovia Anhanguera
+A ASSEMBLÉIA LEGISLATIVA DO
+ESTADO DE
+SÃO PAULO decreta e eu, Robson Marinho, na qualidade de seu
+Presidente,
+promulgo, nos termos do § 4.° do Artigo 26 da
+Constituição do Estado
+(Emenda Constitucional n. 2, de 30 de outubro de 1969), a seguinte
+lei:
