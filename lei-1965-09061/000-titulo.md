@@ -1,0 +1,4 @@
+# LEI Nº 9.061, DE 28 DE OUTUBRO DE 1965
+DENOMINA "PROFESSOR BENEDITO DUTRA TEIXEIRA" AO GINÁSIO DE CHARQUEADA.
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
