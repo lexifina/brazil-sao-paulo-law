@@ -1,0 +1,4 @@
+# LEI Nº 6.544, DE 30 DE NOVEMBRO DE 1961
+DENOMINA "GRUPO ESCOLAR MADUREIRA" AO GRUPO ESCOLAR DE VISTA ALEGRE, DE BAURU.
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
