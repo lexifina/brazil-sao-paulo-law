@@ -1,0 +1,4 @@
+# LEI Nº 8.091, DE 30 DE JANEIRO DE 1964
+DECLARA DE UTILIDADE PÚBLICA A "MATERNIDADE DE JAÚ E HOSPITAL DR. AMARAL CARVALHO", DE JAÚ.
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
