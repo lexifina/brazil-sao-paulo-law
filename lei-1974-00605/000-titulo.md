@@ -1,0 +1,4 @@
+LEI N. 605, DE 17 DE DEZEMBRO DE 1974
+Declara de utilidade pública a Comunidade Inamar-Educação e Assistência Social, com sede em Diadema
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
