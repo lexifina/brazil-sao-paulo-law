@@ -1,0 +1,7 @@
+LEI N. 2.324, DE 9 DE ABRIL DE 1980
+Dá a denominação de "Prof.ª Maria Dolores
+Veríssimo Madureira" à Escola Estadual de 1.° Grau de
+Vila Anhembi, em São José dos Campos
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu
+promulgo a seguinte lei:
