@@ -1,0 +1,6 @@
+LEI N. 2.396, DE 11 DE JULHO DE 1980
+Dá a denominação de "Prof.ª. Helena Telles
+Furtado" à Escola Estadual de 1.° Grau de Guará
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu
+promulgo a seguinte lei:
