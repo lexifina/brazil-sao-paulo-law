@@ -1,0 +1,5 @@
+# LEI Nº 12.213, DE 06 DE JANEIRO DE 2006
+(Projeto de lei nº 534/2005, do Deputado Arnaldo Jardim - PPS)
+Declara de utilidade pública a entidade que especifica
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
