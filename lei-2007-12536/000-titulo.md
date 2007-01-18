@@ -1,0 +1,5 @@
+# LEI Nº 12.536, DE 17 DE JANEIRO DE 2007
+(Projeto de lei nº 666/2005, do Deputado Ricardo Trípoli - PSDB)
+Dá denominação à passarela que especifica.
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
