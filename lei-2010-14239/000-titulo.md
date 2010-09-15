@@ -1,0 +1,5 @@
+# LEI Nº 14.239, DE 14 DE SETEMBRO DE 2010
+(Projeto de lei nº 458/09, do Deputado Pedro Tobias - PSDB)
+Dá denominação ao dispositivo de segurança que especifica
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
