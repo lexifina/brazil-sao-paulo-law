@@ -1,0 +1,9 @@
+# Lei nº 14.896, de 05/11/2012 (Institui o "Dia da Igreja Batista")
+
+Lei 14896/2012 · 1 versions, from 2012-11-06 (latest in force: 2012-11-06) · <https://www.al.sp.gov.br/norma/168549>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2º | [art-0002.md](art-0002.md) | 0 |  |

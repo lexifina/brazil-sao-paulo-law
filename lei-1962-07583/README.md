@@ -1,0 +1,10 @@
+# Lei nº 7.583, de 05/12/1962 (Dispõe sôbre declaração de utilidade pública do "19.º Quarteirão de Amigos de Tupã", com sede naquela cidade)
+
+Lei 7583/1962 · 1 versions, from 1962-12-06 (latest in force: 1962-12-06) · <https://www.al.sp.gov.br/norma/43055>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1 | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2 | [art-0002.md](art-0002.md) | 0 |  |
+| Artigo 3 | [art-0003.md](art-0003.md) | 0 |  |

@@ -1,0 +1,9 @@
+# Lei nº 829, de 06/11/1950 (Declara de utilidade pública o Centro Espírita Francisco Xavier dos Santos, com sede na cidade de Mineiros do Tietê)
+
+Lei 829/1950 · 1 versions, from 1950-11-08 (latest in force: 1950-11-08) · <https://www.al.sp.gov.br/norma/43967>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1 | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2 | [art-0002.md](art-0002.md) | 0 |  |

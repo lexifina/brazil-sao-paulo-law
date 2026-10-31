@@ -1,0 +1,8 @@
+# Lei nº 1.849, de 28/11/1978
+
+Lei 1849/1978 · 1 versions, from 1978-11-29 (latest in force: 1978-11-29) · <https://www.al.sp.gov.br/norma/30883>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 2 | [art-0002.md](art-0002.md) | 0 |  |

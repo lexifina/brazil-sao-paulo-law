@@ -1,0 +1,10 @@
+# Lei nº 8.804, de 10/05/1994 (Autoriza da Fazenda do Estado a alienar imóvel situado no Município de Atibaia na forma que especifica)
+
+Lei 8804/1994 · 1 versions, from 1994-05-11 (latest in force: 1994-05-11) · <https://www.al.sp.gov.br/norma/13451>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1 | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2 | [art-0002.md](art-0002.md) | 0 |  |
+| Artigo 3 | [art-0003.md](art-0003.md) | 0 |  |

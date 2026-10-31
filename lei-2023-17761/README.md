@@ -1,0 +1,11 @@
+# Lei nº 17.761, de 25/09/2023 (Institui procedimentos de licenciamento simplificado para exercício de atividades econômicas no Estado de São Paulo)
+
+Lei 17761/2023 · 1 versions, from 2025-07-08 (latest in force: 2025-07-08) · <https://www.al.sp.gov.br/norma/208561>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1° | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2° | [art-0002.md](art-0002.md) | 0 |  |
+| Artigo 3° | [art-0003.md](art-0003.md) | 0 |  |
+| Artigo 4° | [art-0004.md](art-0004.md) | 0 |  |

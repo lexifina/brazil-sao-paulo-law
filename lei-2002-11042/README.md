@@ -1,0 +1,9 @@
+# Lei nº 11.042, de 09/01/2002 (Inclui no Calendário Turístico do Estado a Semana "Fernando Furlanetto" que se realiza, anualmente, no primeiro semestre, em São João da Boa Vista)
+
+Lei 11042/2002 · 1 versions, from 2002-01-10 (latest in force: 2002-01-10) · <https://www.al.sp.gov.br/norma/22>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2º | [art-0002.md](art-0002.md) | 0 |  |

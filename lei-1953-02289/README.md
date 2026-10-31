@@ -1,0 +1,9 @@
+# Lei nº 2.289, de 03/09/1953 (DÁ A DENOMINAÇÃO DE "PROFESSOR FERNANDO MAGALHÃES" AO GINÁSIO ESTADUAL E COLÉGIO DE CACONDE.)
+
+Lei 2289/1953 · 1 versions, from 1953-09-04 (latest in force: 1953-09-04) · <https://www.al.sp.gov.br/norma/32009>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1 | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2 | [art-0002.md](art-0002.md) | 0 |  |

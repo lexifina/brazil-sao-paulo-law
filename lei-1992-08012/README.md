@@ -1,0 +1,9 @@
+# Lei nº 8.012, de 31/08/1992 (Dá denominação de "Benedicto Ribeiro da Veiga Camargo" à EEPG Parque Jardim das Rosas, em Itu.)
+
+Lei 8012/1992 · 1 versions, from 1992-09-01 (latest in force: 1992-09-01) · <https://www.al.sp.gov.br/norma/17433>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1 | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2 | [art-0002.md](art-0002.md) | 0 |  |

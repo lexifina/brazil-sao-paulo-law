@@ -1,0 +1,9 @@
+# Lei nº 16.699, de 26/03/2018 (Denomina "Desembargador Frank Célio Soares Hungria" a ponte localizada no km 136,270 da Rodovia Castello Branco - SP 280, entre Cesário Lange e Tatuí)
+
+Lei 16699/2018 · 1 versions, from 2018-03-27 (latest in force: 2018-03-27) · <https://www.al.sp.gov.br/norma/185673>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2° | [art-0002.md](art-0002.md) | 0 |  |

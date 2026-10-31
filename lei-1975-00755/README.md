@@ -1,0 +1,11 @@
+# Lei nº 755, de 11/11/1975
+
+Lei 755/1975 · 1 versions, from 1975-11-12 (latest in force: 1975-11-12) · <https://www.al.sp.gov.br/norma/43014>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1 | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2 | [art-0002.md](art-0002.md) | 0 |  |
+| Artigo 4 | [art-0004.md](art-0004.md) | 0 |  |
+| Artigo 5 | [art-0005.md](art-0005.md) | 0 |  |

@@ -1,0 +1,11 @@
+# Lei Complementar nº 626, de 05/09/1989 (Dispõe sobre a fixação de valores para as Escalas de Vencimentos de Cargos do Quadro do Primeiro Tribunal de Alçada Civil que especifica.)
+
+LC 626/1989 · 1 versions, from 1989-09-06 (latest in force: 1989-09-06) · <https://www.al.sp.gov.br/norma/24497>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2 | [art-0002.md](art-0002.md) | 0 |  |
+| Artigo 3º | [art-0003.md](art-0003.md) | 0 |  |
+| Artigo 4º | [art-0004.md](art-0004.md) | 0 |  |

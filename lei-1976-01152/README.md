@@ -1,0 +1,11 @@
+# Lei nº 1.152, de 05/11/1976 (Cria cargos de 2.º Escrevente no Quadro da Justiça para o fim que especifica)
+
+Lei 1152/1976 · 1 versions, from 1976-11-06 (latest in force: 1976-11-06) · <https://www.al.sp.gov.br/norma/29091>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1 | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2 | [art-0002.md](art-0002.md) | 0 |  |
+| Artigo 3 | [art-0003.md](art-0003.md) | 0 |  |
+| Artigo 6 | [art-0006.md](art-0006.md) | 0 |  |

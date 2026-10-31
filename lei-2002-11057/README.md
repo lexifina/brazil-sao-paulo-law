@@ -1,0 +1,11 @@
+# Lei nº 11.057, de 28/01/2002 (Autoriza o Departamento de Estradas de Rodagem - DER a doar imóvel, situado na Capital,  à Fazenda do Estado, para posterior alienação onerosa a terceiros)
+
+Lei 11057/2002 · 1 versions, from 2002-01-29 (latest in force: 2002-01-29) · <https://www.al.sp.gov.br/norma/37>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Artigo 1 | [art-0001.md](art-0001.md) | 0 |  |
+| Artigo 2 | [art-0002.md](art-0002.md) | 0 |  |
+| Artigo 3 | [art-0003.md](art-0003.md) | 0 |  |
+| Artigo 4 | [art-0004.md](art-0004.md) | 0 |  |
