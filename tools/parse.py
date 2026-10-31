@@ -150,6 +150,14 @@ def slug_of(rec):
     t = rec['tipo']
     n = re.sub(r'\D', '', rec['nuNorma'] or '0')
     y = iso(rec['data'])[:4]
+    if t in NUMBERED:
+        # Decretos and Decretos-Leis: like the Leis, a numberless one is told apart by its ALESP id and a lettered
+        # number keeps its letter.
+        base, width = NUMBERED[t]
+        if not n.strip('0'):
+            return f"{base}-{y}-sn-{rec['idNorma']}"
+        m = re.search(r'nº\s*[\d.]+\s*-?\s*([A-Za-z])', rec.get('nomeNorma') or '')
+        return f'{base}-{y}-{int(n):0{width}d}' + (f'-{m.group(1).lower()}' if m else '')
     if t == 'Lei':
         # Numberless Leis (nuNorma "0", 1970-1972) are told apart by their ALESP id; a lettered number such as
         # "8.659-A" keeps its letter (it is a different Lei from 8.659 of the same year).
@@ -162,10 +170,19 @@ def slug_of(rec):
             'Emenda Constitucional': f'ec-{y}-{int(n):03d}'}[t]
 
 
+NUMBERED = {'Decreto': ('decreto', 5), 'Decreto-Lei': ('decreto-lei', 4), 'Decreto-Lei Complementar': ('decreto-lei-complementar', 3)}
+SHORT = {'Decreto': 'Decreto', 'Decreto-Lei': 'Decreto-Lei', 'Decreto-Lei Complementar': 'DLC'}
+
+
 def short_of(rec):
     t = rec['tipo']
     if t == 'Constituição':
         return 'CE-SP'
+    if t in NUMBERED:
+        if not re.sub(r'\D', '', rec['nuNorma'] or '').strip('0'):
+            return f"{SHORT[t]} s/n de {rec['data']}"
+        sl = slug_of(rec)
+        return f"{SHORT[t]} {rec['nuNorma']}" + (f'-{sl[-1].upper()}' if sl[-2] == '-' else '') + f"/{iso(rec['data'])[:4]}"
     if t == 'Lei' and not re.sub(r'\D', '', rec['nuNorma'] or '').strip('0'):
         return f"Lei s/n de {rec['data']}"
     if t == 'Lei' and slug_of(rec)[-2] == '-':  # lettered number, e.g. Lei 8659-A/1965
@@ -283,6 +300,12 @@ def main():
     ap.add_argument('--today', required=True)
     a = ap.parse_args()
     idx = json.loads((CACHE / 'index.json').read_text(encoding='utf-8'))
+    more = CACHE / 'index-more.jsonl'  # records added later, one per line (a norma whose pages are all retrieved)
+    if more.exists():
+        for l in more.read_text(encoding='utf-8').splitlines():
+            if l.strip():
+                r = json.loads(l)
+                idx.setdefault(r['idNorma'], r)
 
     def listing_of(tipo):
         out, page = [], 0
@@ -296,6 +319,17 @@ def main():
                 break
             page += 1
         return out
+    def listing_complete(tipo):
+        out, page = [], 0
+        while True:
+            b = raw(f'https://baleg-api-prd.al.sp.gov.br/normas?idsTipo={tipo}&idsSituacao=1&page={page}&size=100')
+            if b is None:
+                return None
+            d = json.loads(b)
+            out += d['content']
+            if d.get('last', True) or not d['content']:
+                return out
+            page += 1
     listing = listing_of(2)
     key = lambda r: (iso(r['data']), int(re.sub(r'\D', '', r['nuNorma'] or '0') or 0), r['idNorma'])
     if a.only in ('', 'constituicao'):
@@ -337,6 +371,35 @@ def main():
             part(f'30-lei-{i // a.part_size + 1:03d}', acts, laws, a.today, n)
             written += 1
         print(written, 'Lei parts complete of', -(-len(leis) // a.part_size))
+    # Decretos-Leis and Decretos-Leis Complementares (idsTipo 25 and 1, parts 35-dl-NN) and Decretos (idsTipo 3, parts
+    # 40-decreto-NNNN), "sem revogação expressa", the same rules. A series is parsed only once its whole list is
+    # retrieved (the last page says so), so its parts never change their acts.
+    for only, tipos, prefix, width in (('dl', (25, 1), '35-dl', 2), ('decreto', (3,), '40-decreto', 4)):
+        if a.only != only:
+            continue
+        lists = [listing_complete(t) for t in tipos]
+        if any(x is None for x in lists):
+            print(only, 'list not complete yet')
+            continue
+        rows = sorted({r['idNorma']: r for x in lists for r in x}.values(), key=key)
+        written = 0
+        for i in range(0, len(rows), a.part_size):
+            name = f'{prefix}-{i // a.part_size + 1:0{width}d}'
+            chunk = rows[i:i + a.part_size]
+            if (OUT / f'{name}.PUBLISH').exists():
+                written += 1
+                continue
+            if any(r['idNorma'] not in idx for r in chunk):
+                continue
+            acts, laws, n = [], {}, 0
+            for r in chunk:
+                act, l = act_of(idx[r['idNorma']], a.today)
+                if act:
+                    acts.append(act); laws.update(l); n += len(act['versions'])
+            if acts:
+                part(name, acts, laws, a.today, n)
+            written += 1
+        print(written, only, 'parts complete of', -(-len(rows) // a.part_size))
 
 
 if __name__ == '__main__':

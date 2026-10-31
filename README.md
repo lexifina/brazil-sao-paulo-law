@@ -11,10 +11,12 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `constituicao/` | Constituição do Estado de São Paulo (5 October 1989), text in force | 1 |
 | `lc-<year>-<number>/` | the Leis Complementares that ALESP lists as not expressly revoked ("sem revogação expressa") | 1 each |
 | `lei-<year>-<number>/` | the ordinary Leis that ALESP lists as not expressly revoked; also `lei-<year>-sn-<ALESP id>/` for the numberless Leis of 1970-1972 | 1 each |
+| `decreto-lei-<year>-<number>/`, `decreto-lei-complementar-<year>-<number>/` | the Decretos-Leis and Decretos-Leis Complementares that ALESP lists as not expressly revoked (being added) | 1 each |
+| `decreto-<year>-<number>/` | the Decretos that ALESP lists as not expressly revoked (being added, in batches; about 122,700 listed) | 1 each |
 
 **Complete for what it covers:** the Constituição, every Lei Complementar (1,172) and every ordinary Lei (20,593) that ALESP lists as not expressly revoked. 49 listed Leis have no text page at ALESP, or only a PDF (budget tables), and are left out.
 
-An act ALESP shows no alteration for is given **as enacted**, credited to the act itself. An altered act is given **only as its text in force**, credited to ALESP as the oldest version available: the wordings in between are not reconstructed yet, so no earlier version is shown rather than a wrong one. Decrees and the Emendas Constitucionais as acts are not included yet.
+An act ALESP shows no alteration for is given **as enacted**, credited to the act itself. An altered act is given **only as its text in force**, credited to ALESP as the oldest version available: the wordings in between are not reconstructed yet, so no earlier version is shown rather than a wrong one. Decrees follow the same rules and are being added in batches; the Emendas Constitucionais as acts are not included yet.
 
 ## Source
 
