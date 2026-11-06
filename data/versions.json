@@ -304724,6 +304724,2008 @@
      "sha256": "cd3f32912048c0e214fcdde38d16395e2f24e720ff5e1c488bb2567c5f6b8ba3"
     }
    ]
+  },
+  {
+   "slug": "decreto-lei-1938-9428",
+   "short": "Decreto-Lei 9428/1938",
+   "title": "Decreto-Lei nº 9.428, de 19/08/1938 (Cria o o Conselho Técnico de Economia e Finanças)",
+   "url": "https://www.al.sp.gov.br/norma/124755",
+   "versions": [
+    {
+     "from": "1938-08-20",
+     "units": 12,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1938/decreto.lei-9428-19.08.1938.html",
+     "sha256": "db323b3c7c351e0dbf9c2f2d8a864aaa2da3bab1bad400a4d9bdd7ba3dfb86f9"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1940-11032",
+   "short": "Decreto-Lei 11032/1940",
+   "title": "Decreto-Lei nº 11.032, de 16/04/1940 (Transforma, no Instituto Butatã, a Seção de Fisiopatologia Experimental, em Seção de Endocrinologia, e extingue a Seção de Medicina Experimental)",
+   "url": "https://www.al.sp.gov.br/norma/74388",
+   "versions": [
+    {
+     "from": "1940-04-17",
+     "units": 11,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1940/decreto.lei-11032-16.04.1940.html",
+     "sha256": "462f4674105f5cd8267ebdbd0670d764a896436e12160989fdb0b3cd2c4d5a2c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1940-11181",
+   "short": "Decreto-Lei 11181/1940",
+   "title": "Decreto-Lei nº 11.181, de 24/06/1940 (Abre, no Tesouro do Estado, à Secretaria do Governo, o crédito especial de 200:00$000)",
+   "url": "https://www.al.sp.gov.br/norma/129370",
+   "versions": [
+    {
+     "from": "1940-06-26",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1940/decreto.lei-11181-24.06.1940.html",
+     "sha256": "b6484ad3e41903762654366f4bb7c23da2c918e41057f2b3b77e7eddb116ad3e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1940-11522",
+   "short": "Decreto-Lei 11522/1940",
+   "title": "Decreto-Lei nº 11.522, de 26/10/1940 (Cria o Instituto \"Adolfo Lutz\" (Laboratório Central de Saúde Pública) e dá outra providências)",
+   "url": "https://www.al.sp.gov.br/norma/68594",
+   "versions": [
+    {
+     "from": "1940-10-27",
+     "units": 18,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1940/decreto.lei-11522-26.10.1940.html",
+     "sha256": "3094990130fe97d89eb52b24503c12d96a0635a4fb8571d6ab5c74778a2640a1"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1941-11877",
+   "short": "Decreto-Lei 11877/1941",
+   "title": "Decreto-Lei nº 11.877, de 17/03/1941",
+   "url": "https://www.al.sp.gov.br/norma/74389",
+   "versions": [
+    {
+     "from": "1941-03-18",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1941/decreto.lei-11877-17.03.1941.html",
+     "sha256": "70f9a3c902eb4dd7acec386608ef8b15ba97d866956b71c3c518768c0a4c8015"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1941-11878",
+   "short": "Decreto-Lei 11878/1941",
+   "title": "Decreto-Lei nº 11.878, de 17/03/1941 (Suprime a 1.ª zona do distrito de Mangaratú, comarca de Nova Granada, anexando-se o respectivo território ao da 2.ª zona)",
+   "url": "https://www.al.sp.gov.br/norma/74390",
+   "versions": [
+    {
+     "from": "1941-03-18",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1941/decreto.lei-11878-17.03.1941.html",
+     "sha256": "bbccfe2afd6b11ef7a128698fd3fe96b4b5e467b2fdfb05327693c452708e638"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1941-11953",
+   "short": "Decreto-Lei 11953/1941",
+   "title": "Decreto-Lei nº 11.953, de 30/04/1941 (Transfere diversas importâncias, num total de rs.10:000$000, dentro da verba 278, § 32, do orçamento vigente)",
+   "url": "https://www.al.sp.gov.br/norma/129976",
+   "versions": [
+    {
+     "from": "1941-05-01",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1941/decreto.lei-11953-30.04.1941.html",
+     "sha256": "b991e4cb6f5307e269ad2cddf29be48608414bb1f2c15dc4e5f04ebba9e841c7"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1941-12182",
+   "short": "Decreto-Lei 12182/1941",
+   "title": "Decreto-Lei nº 12.182, de 17/09/1941 (Transfere a importância de Rs. 10:000$000, dentro da verba n. 310, § 33, do orçamento vigente)",
+   "url": "https://www.al.sp.gov.br/norma/130145",
+   "versions": [
+    {
+     "from": "1941-09-18",
+     "units": 2,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1941/decreto.lei-12182-17.09.1941.html",
+     "sha256": "4a475e5c7b2859f01afaa989e653918a408ec2df2a97b45b9cbd2f1e0958272f"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1941-12491",
+   "short": "Decreto-Lei 12491/1941",
+   "title": "Decreto-Lei nº 12.491-E, de 31/12/1941 (Abre, na Contadoria da Prefeitura Sanitária de Águas da Prata, deste Estado um crédito suplementar de rs. 12:106$000 (doze contos e seis mil réis))",
+   "url": "https://www.al.sp.gov.br/norma/161077",
+   "versions": [
+    {
+     "from": "1942-02-26",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1941/decreto.lei-12491E-31.12.1941.html",
+     "sha256": "6e6c9f87297effbbfa954c913a93f67581ab7c45bc7db2edd80cce9b889e3194"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-12507",
+   "short": "Decreto-Lei 12507/1942",
+   "title": "Decreto-Lei nº 12.507, de 17/01/1942 (Dispõe sobre a execução do artigo 18 do <a target='_blank' class='anotacao-link' href='/norma/68926'>Decreto-lei n. 12.504, de 10 de janeiro de 1942</a>)",
+   "url": "https://www.al.sp.gov.br/norma/126218",
+   "versions": [
+    {
+     "from": "1942-01-18",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-12507-17.01.1942.html",
+     "sha256": "3d31c7c5a54663841ece05a5fead1784b432a69d91b5c6c1187488c156a2b56e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-12550",
+   "short": "Decreto-Lei 12550/1942",
+   "title": "Decreto-Lei nº 12.550, de 10/02/1942 (Dispõe sobre desdobramento da Verba n. 31, do orçamento vigente)",
+   "url": "https://www.al.sp.gov.br/norma/126241",
+   "versions": [
+    {
+     "from": "1942-02-11",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-12550-10.02.1942.html",
+     "sha256": "238a18d090aa25c20d05dd168cb41b340c67dbc02747d8e0a180db5cf12e7661"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-12579",
+   "short": "Decreto-Lei 12579/1942",
+   "title": "Decreto-Lei nº 12.579, de 05/03/1942 (Declara de utilidade pública imóveis situados no Distrito, Município e Comarca de Sorocaba)",
+   "url": "https://www.al.sp.gov.br/norma/74391",
+   "versions": [
+    {
+     "from": "1942-03-08",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-12579-05.03.1942.html",
+     "sha256": "d5d7f69d090d5b8a067594a26aa030b87a86af6c279d5ab25dfccee413b07718"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-12764",
+   "short": "Decreto-Lei 12764/1942",
+   "title": "Decreto-Lei nº 12.764, de 22/06/1942 (Dispõe sobre a linha divisória entre os terrenos da Sociedade Construtora e de Imóveis S/A e os da antiga Represa do Ipiranga)",
+   "url": "https://www.al.sp.gov.br/norma/126387",
+   "versions": [
+    {
+     "from": "1942-06-23",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-12764-22.06.1942.html",
+     "sha256": "54d7505be08cc9537b26ffcb29ff5cef3bdf27bb8980c47f055e20d119d7598f"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-12784",
+   "short": "Decreto-Lei 12784/1942",
+   "title": "Decreto-Lei nº 12.784, de 24/06/1942 (Reorganiza o Serviço do Interior, do Departamento de Saúde)",
+   "url": "https://www.al.sp.gov.br/norma/126405",
+   "versions": [
+    {
+     "from": "1942-06-26",
+     "units": 28,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-12784-24.06.1942.html",
+     "sha256": "556960bdd97f42b9e74da2614cf1c827c10dfe615f51155ee722f4fa142422aa"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-12823",
+   "short": "Decreto-Lei 12823/1942",
+   "title": "Decreto-Lei nº 12.823, de 28/07/1942 (Cria, na Faculdade de Medicina Veterinária, a Secção de Rádio-diagnóstico e Fisioterapia, e dá outras providências)",
+   "url": "https://www.al.sp.gov.br/norma/126426",
+   "versions": [
+    {
+     "from": "1942-08-02",
+     "units": 7,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-12823-28.07.1942.html",
+     "sha256": "e01b8b4b25d732c1cc71456cb6ff76f5a4bfd04bb327bebe31b07124626c9bfc"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-12855",
+   "short": "Decreto-Lei 12855/1942",
+   "title": "Decreto-Lei nº 12.855, de 05/08/1942",
+   "url": "https://www.al.sp.gov.br/norma/126447",
+   "versions": [
+    {
+     "from": "1942-08-06",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-12855-05.08.1942.html",
+     "sha256": "77a935f04b4dc91a03459f7275b5685a2af5d9c397d27c9728a42da691fe580e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-12874",
+   "short": "Decreto-Lei 12874/1942",
+   "title": "Decreto-Lei nº 12.874, de 14/08/1942 (Dispõe sobre a concessão de auxílios na Prefeitura da Estância Hidromineral de Lindoia)",
+   "url": "https://www.al.sp.gov.br/norma/126454",
+   "versions": [
+    {
+     "from": "1942-08-15",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-12874-14.08.1942.html",
+     "sha256": "286e49946a1dd6dd8066d872347c9d3120d6bc552d2b534cbd36f79776fd74fc"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-12882",
+   "short": "Decreto-Lei 12882/1942",
+   "title": "Decreto-Lei nº 12.882, de 19/08/1942 (Autoriza a Fazenda do Estado a doar à Prefeitura Municipal de Olímpia, área de terreno)",
+   "url": "https://www.al.sp.gov.br/norma/74394",
+   "versions": [
+    {
+     "from": "1942-08-20",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-12882-19.08.1942.html",
+     "sha256": "12e58b2cd0f9fb608aaf59c163f6dc66d10b00d09462f11639880a554fb31750"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-12918",
+   "short": "Decreto-Lei 12918/1942",
+   "title": "Decreto-Lei nº 12.918, de 01/09/1942",
+   "url": "https://www.al.sp.gov.br/norma/126485",
+   "versions": [
+    {
+     "from": "1942-09-03",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-12918-01.09.1942.html",
+     "sha256": "6ab94a365d56588fcde64deb861f61424d76448a94cf56fd671a8bec3862d18c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-12982",
+   "short": "Decreto-Lei 12982/1942",
+   "title": "Decreto-Lei nº 12.982, de 07/10/1942 (Abre à Secretaria da Segurança Pública um crédito especial de rs. 500:000$000)",
+   "url": "https://www.al.sp.gov.br/norma/126532",
+   "versions": [
+    {
+     "from": "1942-10-08",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-12982-07.10.1942.html",
+     "sha256": "6bdea44d4f156f8ce2085199e0549c1232f4f63d6b0d24c5635b75e84fa61e29"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-13008",
+   "short": "Decreto-Lei 13008/1942",
+   "title": "Decreto-Lei nº 13.008, de 24/10/1942 (Abre um crédito especial de Rs. 560:000$000, à Seecretaria da Interventoria)",
+   "url": "https://www.al.sp.gov.br/norma/126551",
+   "versions": [
+    {
+     "from": "1942-10-25",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-13008-24.10.1942.html",
+     "sha256": "8c83ce21215c661a1c5e8b539741cfea151b1e7266a01acd3e0c55358b0fef02"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1942-13028",
+   "short": "Decreto-Lei 13028/1942",
+   "title": "Decreto-Lei nº 13.028, de 27/10/1942 (Declara de utilidade pública, terrenos necessários à construção de prédio para Grupo Escolar)",
+   "url": "https://www.al.sp.gov.br/norma/126566",
+   "versions": [
+    {
+     "from": "1942-10-30",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1942/decreto.lei-13028-27.10.1942.html",
+     "sha256": "d8c6cecea41862075a22844485831bd9648b643703c1bf174cfba08680bf149e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1943-13192",
+   "short": "Decreto-Lei 13192/1943",
+   "title": "Decreto-Lei nº 13.192, de 19/01/1943 (Dispõe sobre organização do Hospital das Clínicas)",
+   "url": "https://www.al.sp.gov.br/norma/74395",
+   "versions": [
+    {
+     "from": "1943-01-22",
+     "units": 23,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1943/decreto.lei-13192-19.01.1943.html",
+     "sha256": "688e70cad403728560afed265d7306cc4acf33a77c31b6a626b1887b1e99799c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1943-13232",
+   "short": "Decreto-Lei 13232/1943",
+   "title": "Decreto-Lei nº 13.232, de 12/02/1943",
+   "url": "https://www.al.sp.gov.br/norma/126669",
+   "versions": [
+    {
+     "from": "1943-02-14",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1943/decreto.lei-13232-12.02.1943.html",
+     "sha256": "7355c5b6b55d00f9f99b1848eb13f407142e992a19c069d9fc58559f6361acc5"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1943-13260",
+   "short": "Decreto-Lei 13260/1943",
+   "title": "Decreto-Lei nº 13.260, de 03/03/1943 (Autoriza o Estado a receber, em doação, terreno situado em Vera Cruz)",
+   "url": "https://www.al.sp.gov.br/norma/74396",
+   "versions": [
+    {
+     "from": "1943-03-04",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1943/decreto.lei-13260-03.03.1943.html",
+     "sha256": "6f8c657744d7690c9df1473d31d62aa1874a33408a64d2bfef29a5c0afcbeceb"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1943-13315",
+   "short": "Decreto-Lei 13315/1943",
+   "title": "Decreto-Lei nº 13.315, de 12/04/1943",
+   "url": "https://www.al.sp.gov.br/norma/126725",
+   "versions": [
+    {
+     "from": "1943-04-13",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1943/decreto.lei-13315-12.04.1943.html",
+     "sha256": "1f89d188cab34e0525a45de9a79edae3cc6e73d2fa1a23a43692449b21140b2f"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1943-13323",
+   "short": "Decreto-Lei 13323/1943",
+   "title": "Decreto-Lei nº 13.323, de 26/04/1943 (Autoriza a Fazenda do Estado a receber, em doação, terreno situado em Cruzeiro, destinado à construção de um prédio para o Grupo Escolar)",
+   "url": "https://www.al.sp.gov.br/norma/126733",
+   "versions": [
+    {
+     "from": "1943-04-27",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1943/decreto.lei-13323-26.04.1943.html",
+     "sha256": "ca3d3f4639b7ab37a3d79ce4efb7c21edd2a404051a5c216605b91ad98c9c50d"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1943-13507",
+   "short": "Decreto-Lei 13507/1943",
+   "title": "Decreto-Lei nº 13.507, de 12/08/1943 (Dá nova redação à letra \"a\" do artigo 1.º do <a target='_blank' class='anotacao-link' href='/norma/69185'>Decreto-lei n. 12.741, de 3 de junho de 1942</a>)",
+   "url": "https://www.al.sp.gov.br/norma/126837",
+   "versions": [
+    {
+     "from": "1943-08-13",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1943/decreto.lei-13507-12.08.1943.html",
+     "sha256": "0d54629c5608852fe34b5c9a7f6aeefdf9ad8807658e140d2d6b9da31be52a8c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1943-13626",
+   "short": "Decreto-Lei 13626/1943",
+   "title": "Decreto-Lei nº 13.626, de 21/10/1943 (Dispõe sobre normas para o traçado das estradas de rodagem estaduais)",
+   "url": "https://www.al.sp.gov.br/norma/75319",
+   "versions": [
+    {
+     "from": "1943-10-27",
+     "units": 1,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1943/decreto.lei-13626-21.10.1943.html",
+     "sha256": "58f8b202df9d55f5e98679d253e158e4484f88fb8ff60481af0ebc30684fd4c1"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1943-13654",
+   "short": "Decreto-Lei 13654/1943",
+   "title": "Decreto-Lei nº 13.654, de 06/11/1943 (Dispõe sobre promoção de oficiais da Força Policial do Estado)",
+   "url": "https://www.al.sp.gov.br/norma/130299",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 49,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1943/decreto.lei-13654-06.11.1943.html",
+     "sha256": "2bcdb2a5e5a02bdc02ce9a59c47d4f10c6fa9f89bec242b4390aa92f60c840c0"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1944-13813",
+   "short": "Decreto-Lei 13813/1944",
+   "title": "Decreto-Lei nº 13.813, de 13/01/1944 (Dispõe sobre criação do cartório do 3.º ofício na comarca de Presidente Prudente)",
+   "url": "https://www.al.sp.gov.br/norma/74397",
+   "versions": [
+    {
+     "from": "1944-01-14",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1944/decreto.lei-13813-13.01.1944.html",
+     "sha256": "ea0b112a9dd6d4220fca1e8c813e888626136707589d7072c81134487cec03b0"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1944-13884",
+   "short": "Decreto-Lei 13884/1944",
+   "title": "Decreto-Lei nº 13.884, de 09/03/1944 (Transforma o Serviço Administrativo da Força Policial do Estado em a 4.ª Seção da Diretoria do Pessoal da Secretaria da Segurança Pública)",
+   "url": "https://www.al.sp.gov.br/norma/74398",
+   "versions": [
+    {
+     "from": "1944-03-10",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1944/decreto.lei-13884-09.03.1944.html",
+     "sha256": "e1df7d226eb8d9daaa6360854dfcb18321c0a601f79d25b6386adaf93954ee8e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1944-13920",
+   "short": "Decreto-Lei 13920/1944",
+   "title": "Decreto-Lei nº 13.920, de 25/03/1944 (Dispõe sobre criação de 4 secções técnicas na Escola Superior de Agricultura \"Luiz de Queiroz\")",
+   "url": "https://www.al.sp.gov.br/norma/127023",
+   "versions": [
+    {
+     "from": "1944-03-26",
+     "units": 12,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1944/decreto.lei-13920-25.03.1944.html",
+     "sha256": "2dd8d3d580445010a72b5741fa281cebefed015767874b1d9f70f0f9e0898577"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1944-14150",
+   "short": "Decreto-Lei 14150/1944",
+   "title": "Decreto-Lei nº 14.150, de 29/08/1944 (Dispõe sobre concessão de auxílio e dá outras providências)",
+   "url": "https://www.al.sp.gov.br/norma/127114",
+   "versions": [
+    {
+     "from": "1944-08-30",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1944/decreto.lei-14150-29.08.1944.html",
+     "sha256": "b0e33fe9f48099ed174681948467e67d4080d94f37131e8115c80fa962696e41"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1944-14151",
+   "short": "Decreto-Lei 14151/1944",
+   "title": "Decreto-Lei nº 14.151, de 29/08/1944 (Dispõe sobre concessão de auxílios na Prefeitura Sanitária de Campos do Jordão)",
+   "url": "https://www.al.sp.gov.br/norma/127115",
+   "versions": [
+    {
+     "from": "1944-08-30",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1944/decreto.lei-14151-29.08.1944.html",
+     "sha256": "623e63a4683066c6047efcc3c81deeb6732270fa2811a28d4750479576691fa7"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1944-14296",
+   "short": "Decreto-Lei 14296/1944",
+   "title": "Decreto-Lei nº 14.296, de 21/11/1944",
+   "url": "https://www.al.sp.gov.br/norma/127174",
+   "versions": [
+    {
+     "from": "1944-11-22",
+     "units": 11,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1944/decreto.lei-14296-21.11.1944.html",
+     "sha256": "5978950eeeec7ffb85ffe65932ced2ca993d300e01ff712c97b8aa90236d6f14"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1944-14334",
+   "short": "Decreto-Lei 14334/1944",
+   "title": "Decreto-Lei nº 14.334, de 30/11/1944 (Divisão administrativa e judiciária do Estado)",
+   "url": "https://www.al.sp.gov.br/norma/122331",
+   "versions": [
+    {
+     "from": "1945-05-15",
+     "units": 7,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1944/decreto.lei-14334-30.11.1944.html",
+     "sha256": "a713b967bb9c5addf38a5055776a283ab28e02440a676b26cf51c503c758445e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1944-14370",
+   "short": "Decreto-Lei 14370/1944",
+   "title": "Decreto-Lei nº 14.370, de 15/12/1944 (Dispõe sobre abertura de crédito especial de Cr$ 1.465.000,00)",
+   "url": "https://www.al.sp.gov.br/norma/127217",
+   "versions": [
+    {
+     "from": "1944-12-16",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1944/decreto.lei-14370-15.12.1944.html",
+     "sha256": "7793042fd0a20f7327f90a0aab83968693656e690e2f2944a1d7eeb011715332"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1945-14797",
+   "short": "Decreto-Lei 14797/1945",
+   "title": "Decreto-Lei nº 14.797, de 18/06/1945 (Dispõe sobre transferência da cadeira de Clínica Otorrinolaringológica do 4.º para o 6.º ano do curso da Faculdade de Medicina)",
+   "url": "https://www.al.sp.gov.br/norma/127457",
+   "versions": [
+    {
+     "from": "1945-06-19",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1945/decreto.lei-14797-18.06.1945.html",
+     "sha256": "76da1153190f637e8a6082cbb4c0afea0df11e78fbbb9fb2331552c51478d554"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1945-14939",
+   "short": "Decreto-Lei 14939/1945",
+   "title": "Decreto-Lei nº 14.939, de 17/08/1945 (Altera o <a target='_blank' class='anotacao-link' href='/norma/130299'>decreto-lei n. 13.654, de 6-11-1943</a>, e dá outras providências.)",
+   "url": "https://www.al.sp.gov.br/norma/74399",
+   "versions": [
+    {
+     "from": "1945-08-18",
+     "units": 8,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1945/decreto.lei-14939-17.08.1945.html",
+     "sha256": "8030228900b85c518505eadb30b7372c46627557a73f8953558bf47a3b25639c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1945-14995",
+   "short": "Decreto-Lei 14995/1945",
+   "title": "Decreto-Lei nº 14.995, de 03/09/1945 (Dispõe sobre criação de cargos no Quadro da Justiça)",
+   "url": "https://www.al.sp.gov.br/norma/127543",
+   "versions": [
+    {
+     "from": "1945-09-04",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1945/decreto.lei-14995-03.09.1945.html",
+     "sha256": "0ec978c884a17b4c836c21104f779378a6099889323d1a5f0ac677bb43ec942e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1945-15029",
+   "short": "Decreto-Lei 15029/1945",
+   "title": "Decreto-Lei nº 15.029, de 17/09/1945 (Dá nova redação ao artigo 21, do <a target='_blank' class='anotacao-link' href='/norma/130299'>decreto-lei n. 13.654, de 6 de novembro de 1943</a>.)",
+   "url": "https://www.al.sp.gov.br/norma/74400",
+   "versions": [
+    {
+     "from": "1945-09-18",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1945/decreto.lei-15029-17.09.1945.html",
+     "sha256": "cfe72043a5c0198954571d0212df8ba9440a579017c7d05d3daec9bdb9a7e098"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1945-15311",
+   "short": "Decreto-Lei 15311/1945",
+   "title": "Decreto-Lei nº 15.311, de 13/12/1945",
+   "url": "https://www.al.sp.gov.br/norma/74401",
+   "versions": [
+    {
+     "from": "1945-12-19",
+     "units": 6,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1945/decreto.lei-15311-13.12.1945.html",
+     "sha256": "4be273274468d2afac45e826ee479327fbc0bed5e77cb423139868208970d6c9"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1946-15525",
+   "short": "Decreto-Lei 15525/1946",
+   "title": "Decreto-Lei nº 15.525, de 07/01/1946 (Dispõe sobre contas nas Caixas Econômicas do Estado)",
+   "url": "https://www.al.sp.gov.br/norma/130313",
+   "versions": [
+    {
+     "from": "1946-01-08",
+     "units": 2,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1946/decreto.lei-15525-07.01.1946.html",
+     "sha256": "84347485787c0c7ca6db1b30efff083f2580f095792a7db8d6b91eb682586395"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1946-15526",
+   "short": "Decreto-Lei 15526/1946",
+   "title": "Decreto-Lei nº 15.526, de 07/01/1946 (Modifica a alínea \"c\" do artigo 2.º do <a target='_blank' class='anotacao-link' href='/norma/67724'>Decreto-lei n. 15.400, de 27 de dezembro de 1945</a>)",
+   "url": "https://www.al.sp.gov.br/norma/130314",
+   "versions": [
+    {
+     "from": "1946-01-08",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1946/decreto.lei-15526-07.01.1946.html",
+     "sha256": "3efa193f08d15367741aaacf1e2707d234967d6952c34b1799d1dca3102448c5"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1946-15531",
+   "short": "Decreto-Lei 15531/1946",
+   "title": "Decreto-Lei nº 15.531, de 14/01/1946 (Modifica dispositivo do <a target='_blank' class='anotacao-link' href='/norma/68689'>Decreto-lei n. 13.239, de 16 de fevereiro de 1943</a>)",
+   "url": "https://www.al.sp.gov.br/norma/130315",
+   "versions": [
+    {
+     "from": "1946-01-16",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1946/decreto.lei-15531-14.01.1946.html",
+     "sha256": "3b27c2fdc8c4902069c6abb1c1bef1a3225f0d77843a50c6df8ebfc78cc79eef"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1946-15532",
+   "short": "Decreto-Lei 15532/1946",
+   "title": "Decreto-Lei nº 15.532, de 14/01/1946 (Aprova projeto de decretos-leis de diversos municípios, que dispõem sobre concessão de sepulturas e que dão outras providências)",
+   "url": "https://www.al.sp.gov.br/norma/130316",
+   "versions": [
+    {
+     "from": "1946-01-16",
+     "units": 2,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1946/decreto.lei-15532-14.01.1946.html",
+     "sha256": "49d437014b75e93a3de032d9fb1ff3d646ad01955e7e2f0b83b1670bbd5e8a61"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1946-15541",
+   "short": "Decreto-Lei 15541/1946",
+   "title": "Decreto-Lei nº 15.541, de 15/01/1946 (Dispõe sobre isenção de imposto)",
+   "url": "https://www.al.sp.gov.br/norma/130317",
+   "versions": [
+    {
+     "from": "1946-01-16",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1946/decreto.lei-15541-15.01.1946.html",
+     "sha256": "9bffb96188c89ac66d782037048e47be2bef0d4535da462a657a533621aedc0a"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1946-15620",
+   "short": "Decreto-Lei 15620/1946",
+   "title": "Decreto-Lei nº 15.620, de 29/01/1946 (Dispõe sobre o \"Código de Vencimentos e Vantagens de Oficiais e Praças da Força Policial do Estado\")",
+   "url": "https://www.al.sp.gov.br/norma/147497",
+   "versions": [
+    {
+     "from": "1946-02-10",
+     "units": 147,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1946/decreto.lei-15620-29.01.1946.html",
+     "sha256": "b142c85d3f8f486ef726b24beba2a915280010fb5ae2432e81d41f7982b67e6c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1946-15896",
+   "short": "Decreto-Lei 15896/1946",
+   "title": "Decreto-Lei nº 15.896, de 15/07/1946 (Dispõe sobre criação de cargo)",
+   "url": "https://www.al.sp.gov.br/norma/130318",
+   "versions": [
+    {
+     "from": "1946-07-16",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1946/decreto.lei-15896-15.07.1946.html",
+     "sha256": "68fdd9df9a4ed0c44e0997e5c14a125072580075175c96d21fd5191e6a85a776"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1946-16349",
+   "short": "Decreto-Lei 16349/1946",
+   "title": "Decreto-Lei nº 16.349, de 27/11/1946 (Dispõe sobre restauração dos símbolos estaduais)",
+   "url": "https://www.al.sp.gov.br/norma/74402",
+   "versions": [
+    {
+     "from": "1946-11-28",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1946/decreto.lei-16349-27.11.1946.html",
+     "sha256": "2b24ae8776363ebd24073caf413c9ce64f0d7220bd066a9339563571206ad415"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1946-16439",
+   "short": "Decreto-Lei 16439/1946",
+   "title": "Decreto-Lei nº 16.439, de 06/12/1946 (Dispõe sobre reestruturação da carreira de Agrônomo)",
+   "url": "https://www.al.sp.gov.br/norma/74403",
+   "versions": [
+    {
+     "from": "1946-12-07",
+     "units": 10,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1946/decreto.lei-16439-06.12.1946.html",
+     "sha256": "b7c91657b28ab4b5cbb1b077946c98b51587e3741b2618a1f22218cb4d60ec09"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1946-16546",
+   "short": "Decreto-Lei 16546/1946",
+   "title": "Decreto-Lei nº 16.546, de 26/12/1946 (Dispõe sobre a reorganização do Departamento de Estradas de Rodagem)",
+   "url": "https://www.al.sp.gov.br/norma/68431",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 43,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1946/decreto.lei-16546-26.12.1946.html",
+     "sha256": "6f28b92a235e5da703362445f7b15e28d25238b16296731824959237b1ffed23"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1947-16701",
+   "short": "Decreto-Lei 16701/1947",
+   "title": "Decreto-Lei nº 16.701, de 10/01/1947 (Aprova o orçamento da Universidade de São Paulo, para o exercício de 1947)",
+   "url": "https://www.al.sp.gov.br/norma/98768",
+   "versions": [
+    {
+     "from": "1947-01-25",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1947/decreto.lei-16701-10.01.1947.html",
+     "sha256": "09b791f465e6646c8b960b34ac8f4f44f92f49ba1f9b97f2e86c0b56cc672cee"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1947-16724",
+   "short": "Decreto-Lei 16724/1947",
+   "title": "Decreto-Lei nº 16.724, de 16/01/1947 (Dispõe sobre criação de Divisões de Diversões Públicas e de Radiodifusão e dá outras providências)",
+   "url": "https://www.al.sp.gov.br/norma/98786",
+   "versions": [
+    {
+     "from": "1947-01-17",
+     "units": 10,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1947/decreto.lei-16724-16.01.1947.html",
+     "sha256": "7b9fc656d1e00218531e72f86a04fab50798dd5ad20a8eb7622d745030c67637"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1947-17252",
+   "short": "Decreto-Lei 17252/1947",
+   "title": "Decreto-Lei nº 17.252, de 29/05/1947 (Dispõe sobre criação da Assessoria Técnico-Legislativa )",
+   "url": "https://www.al.sp.gov.br/norma/74404",
+   "versions": [
+    {
+     "from": "1947-05-30",
+     "units": 12,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1947/decreto.lei-17252-29.05.1947.html",
+     "sha256": "635beb083d4b07a3cf44586c6e7b5f983103f7baf94bf95477898f43fe65e9fc"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1947-17315",
+   "short": "Decreto-Lei 17315/1947",
+   "title": "Decreto-Lei nº 17.315, de 23/06/1947 (Dispõe sobre aplicação de crédito especial)",
+   "url": "https://www.al.sp.gov.br/norma/99159",
+   "versions": [
+    {
+     "from": "1947-06-24",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1947/decreto.lei-17315-23.06.1947.html",
+     "sha256": "e9d43f3683df6bb45598b4bf9633f791f01e3dca846173eb65e31ded5a12d5ff"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0002",
+   "short": "Decreto-Lei 2/1969",
+   "title": "Decreto-Lei nº 2, de 24/02/1969 (Dispõe sobre concessão de abono aos servidores civis do Estado e dá outras providências)",
+   "url": "https://www.al.sp.gov.br/norma/48214",
+   "versions": [
+    {
+     "from": "1969-02-25",
+     "units": 12,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-2-24.02.1969.html",
+     "sha256": "38bbe6415287db34762bda6addf086b5a73a09d1c7f05fe217ad7c8b3b695195"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0003",
+   "short": "Decreto-Lei 3/1969",
+   "title": "Decreto-Lei nº 3, de 28/02/1969 (Dispõe sobre a criação dos cargos que especifica, no Quadro do Ensino, e dá outras providências )",
+   "url": "https://www.al.sp.gov.br/norma/48215",
+   "versions": [
+    {
+     "from": "1969-03-01",
+     "units": 7,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-3-28.02.1969.html",
+     "sha256": "565fdebdd824616805ccfca727a8e15e9bd68c5e7ed583261ae81317d1b873a9"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0004",
+   "short": "Decreto-Lei 4/1969",
+   "title": "Decreto-Lei nº 4, de 06/03/1969",
+   "url": "https://www.al.sp.gov.br/norma/48216",
+   "versions": [
+    {
+     "from": "1969-03-07",
+     "units": 20,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-4-06.03.1969.html",
+     "sha256": "ec5c0cd9ad50443be942d5ab8595c3e914eb78583e61d3e274ac8a35ccb35933"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0005",
+   "short": "Decreto-Lei 5/1969",
+   "title": "Decreto-Lei nº 5, de 06/03/1969",
+   "url": "https://www.al.sp.gov.br/norma/48217",
+   "versions": [
+    {
+     "from": "1969-03-07",
+     "units": 16,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-5-06.03.1969.html",
+     "sha256": "5766851220a200bfa8b975fec64b2c1fdead71102e90aa2e3c8f71939da3f485"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0008",
+   "short": "Decreto-Lei 8/1969",
+   "title": "Decreto-Lei nº 8, de 21/03/1969 (Dá nova redação ao artigo 30 da <a target='_blank' class='anotacao-link' href='/norma/39403'>Lei n. 4.832, de 4 de setembro de 1958</a>)",
+   "url": "https://www.al.sp.gov.br/norma/48424",
+   "versions": [
+    {
+     "from": "1969-03-22",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-8-21.03.1969.html",
+     "sha256": "7adf378302e944074d73480c85f94a5c1e80015d580e0647036d05ff684abb2f"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0026",
+   "short": "Decreto-Lei 26/1969",
+   "title": "Decreto-Lei nº 26, de 28/03/1969 (Transfere para o dia 30 de abril a data de comemoração do \"Dia do Ferroviário Paulista\" )",
+   "url": "https://www.al.sp.gov.br/norma/48453",
+   "versions": [
+    {
+     "from": "1969-03-29",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-26-28.03.1969.html",
+     "sha256": "8d79c1782cfab26182799bdc1ba9cf004b51460560a32fe75e9f73fd74c8d51b"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0030",
+   "short": "Decreto-Lei 30/1969",
+   "title": "Decreto-Lei nº 30, de 02/04/1969 (Autoriza a Fazenda Estadual a adquirir imóveis de propriedade do Instituto de Previdência do Estado de São Paulo e dá outras providências)",
+   "url": "https://www.al.sp.gov.br/norma/48460",
+   "versions": [
+    {
+     "from": "1969-04-03",
+     "units": 10,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-30-02.04.1969.html",
+     "sha256": "c516dea049d3ca45faf28b9a1019b3ead20ff350e1f2918d9a1c51a78d02859b"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0037",
+   "short": "Decreto-Lei 37/1969",
+   "title": "Decreto-Lei nº 37, de 10/04/1969",
+   "url": "https://www.al.sp.gov.br/norma/48469",
+   "versions": [
+    {
+     "from": "1969-04-11",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-37-10.04.1969.html",
+     "sha256": "ba25a07f1ca321c5d73e255342838c0c63125f107cccf946a7cbf4678c49b1f1"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0045",
+   "short": "Decreto-Lei 45/1969",
+   "title": "Decreto-Lei nº 45, de 18/04/1969 (Dispõe sobre a criação de distritos policiais no Município de Santos e dá outras providências )",
+   "url": "https://www.al.sp.gov.br/norma/48524",
+   "versions": [
+    {
+     "from": "1969-04-19",
+     "units": 7,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-45-18.04.1969.html",
+     "sha256": "5fef9c442392c506dab9d85e81534768c2fee51fdb12c1cc7817dfd7abc20f02"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0047",
+   "short": "Decreto-Lei 47/1969",
+   "title": "Decreto-Lei nº 47, de 23/04/1969 (Dispõe sobre a criação de cargos no Quadro da Secretaria da Fazenda, e dá outras providências )",
+   "url": "https://www.al.sp.gov.br/norma/48526",
+   "versions": [
+    {
+     "from": "1969-04-24",
+     "units": 8,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-47-23.04.1969.html",
+     "sha256": "ae474bda4bc76d8291bb26ad7a19982125dc2e2cc2aff7818b9fad3b661d115d"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0049",
+   "short": "Decreto-Lei 49/1969",
+   "title": "Decreto-Lei nº 49, de 25/04/1969 (Dispõe sobre a instituição da \"Campanha de Combate à Febre Aftosa\" e dá outras providências )",
+   "url": "https://www.al.sp.gov.br/norma/48528",
+   "versions": [
+    {
+     "from": "1969-04-26",
+     "units": 17,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-49-25.04.1969.html",
+     "sha256": "1b26fc019706185b67bcdf25a6c12d688d6c081084070f6f43a3d373698ba30d"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0059",
+   "short": "Decreto-Lei 59/1969",
+   "title": "Decreto-Lei nº 59, de 15/05/1969 (Dispõe sôbre concessão de pensão mensal)",
+   "url": "https://www.al.sp.gov.br/norma/48540",
+   "versions": [
+    {
+     "from": "1969-05-16",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-59-15.05.1969.html",
+     "sha256": "86c2eed8bf654e723ed3343db367865fe25b36520c5d40982811e7a9e5ed6c7b"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0063",
+   "short": "Decreto-Lei 63/1969",
+   "title": "Decreto-Lei nº 63, de 15/05/1969 (Dispõe sobre a constituição de sociedade anônima, com a denominação de \"Companhia Docas de São Sebastião\" e dá outras providências)",
+   "url": "https://www.al.sp.gov.br/norma/48642",
+   "versions": [
+    {
+     "from": "1969-05-16",
+     "units": 22,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-63-15.05.1969.html",
+     "sha256": "0643dbbd482cc6a6dbd2c691d0a5458e41f0eecd53d317c6b97ffffde4a28ca8"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0071",
+   "short": "Decreto-Lei 71/1969",
+   "title": "Decreto-Lei nº 71, de 23/05/1969",
+   "url": "https://www.al.sp.gov.br/norma/48650",
+   "versions": [
+    {
+     "from": "1969-05-24",
+     "units": 7,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-71-23.05.1969.html",
+     "sha256": "33c37579508f9e033863ce530da68b603f52a27a1ede6107231cbbdc23a797a9"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0080",
+   "short": "Decreto-Lei 80/1969",
+   "title": "Decreto-Lei nº 80, de 28/05/1969 (Dispõe sôbre transformação de cargos da Secretaria da Segurança Pública)",
+   "url": "https://www.al.sp.gov.br/norma/48667",
+   "versions": [
+    {
+     "from": "1969-05-29",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-80-28.05.1969.html",
+     "sha256": "a6d8c4dfb2565a02edcb2f0d384773d781c9341442ceed0140a84ab20d69461a"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0084",
+   "short": "Decreto-Lei 84/1969",
+   "title": "Decreto-Lei nº 84, de 29/05/1969 (Dispõe sobre a criação, no Departamento de Estradas de Rodagem, do \"Fundo de Conservação de Rodovias\")",
+   "url": "https://www.al.sp.gov.br/norma/48671",
+   "versions": [
+    {
+     "from": "1969-05-30",
+     "units": 8,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-84-29.05.1969.html",
+     "sha256": "64dd657f968ff2a57030044803d0d288d7cc93a564f7f4cd0f6c975f813b5250"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0088",
+   "short": "Decreto-Lei 88/1969",
+   "title": "Decreto-Lei nº 88, de 30/05/1969 (Altera a redação do artigo 40 da Lei n. 10.168, de 10 de agosto de 1968 e dá outras providências. )",
+   "url": "https://www.al.sp.gov.br/norma/48675",
+   "versions": [
+    {
+     "from": "1969-06-03",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-88-30.05.1969.html",
+     "sha256": "b4536b3144fa495fd07360cd099a058254484918c4e541d9fc851fc1e3e3f5ad"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0092",
+   "short": "Decreto-Lei 92/1969",
+   "title": "Decreto-Lei nº 92, de 06/06/1969",
+   "url": "https://www.al.sp.gov.br/norma/48679",
+   "versions": [
+    {
+     "from": "1969-06-07",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-92-06.06.1969.html",
+     "sha256": "0d2c6a819f069ad90f948d3d1ac8b6e2c0f62a92fe8cc5b19f140e22570c6f7d"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0094",
+   "short": "Decreto-Lei 94/1969",
+   "title": "Decreto-Lei nº 94, de 11/06/1969",
+   "url": "https://www.al.sp.gov.br/norma/48681",
+   "versions": [
+    {
+     "from": "1969-06-12",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-94-11.06.1969.html",
+     "sha256": "8fb4da2c83200de76b7382e49aa522c981ff265a19e08843cee28a8c933b55a6"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0095",
+   "short": "Decreto-Lei 95/1969",
+   "title": "Decreto-Lei nº 95, de 12/06/1969 (Dá nova redação ao artigo 3.º do <a target='_blank' class='anotacao-link' href='/norma/48460'>Decreto-lei n. 30, de 2 de abril de 1969</a> )",
+   "url": "https://www.al.sp.gov.br/norma/48682",
+   "versions": [
+    {
+     "from": "1969-06-13",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-95-12.06.1969.html",
+     "sha256": "4238c4f1a45096a0397193683366b123b3a7072de4f16a8a62cb17c67c991121"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0099",
+   "short": "Decreto-Lei 99/1969",
+   "title": "Decreto-Lei nº 99, de 18/06/1969 (Dispõe sôbre a realização de concursos e dá outras providências)",
+   "url": "https://www.al.sp.gov.br/norma/48686",
+   "versions": [
+    {
+     "from": "1969-06-19",
+     "units": 9,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-99-18.06.1969.html",
+     "sha256": "14d08081546cacac26687d199a8b38011c6fd5df2eb431b33182b785fdbcfbd7"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0100",
+   "short": "Decreto-Lei 100/1969",
+   "title": "Decreto-Lei nº 100, de 18/06/1969 (Dispõe sobre a criação de cargos no Quadro da Casa Civil e dá outras providências )",
+   "url": "https://www.al.sp.gov.br/norma/48772",
+   "versions": [
+    {
+     "from": "1969-06-19",
+     "units": 13,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-100-18.06.1969.html",
+     "sha256": "74a62d0bd72e044601dfcfe13e981d3ad0e28a19192315c156b5b1f6f277078c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0112",
+   "short": "Decreto-Lei 112/1969",
+   "title": "Decreto-Lei nº 112, de 26/06/1969 (Altera a denominação dos cargos que especifica e dá outras providências )",
+   "url": "https://www.al.sp.gov.br/norma/48785",
+   "versions": [
+    {
+     "from": "1969-06-27",
+     "units": 7,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-112-26.06.1969.html",
+     "sha256": "e5f608ef5d25467cf18b06f3248f96b46cd6906b78a85c820165a5a4823d0147"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0121",
+   "short": "Decreto-Lei 121/1969",
+   "title": "Decreto-Lei nº 121, de 04/07/1969",
+   "url": "https://www.al.sp.gov.br/norma/48799",
+   "versions": [
+    {
+     "from": "1969-07-05",
+     "units": 8,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-121-04.07.1969.html",
+     "sha256": "649a4e1addbb8190c5ed1581471f1be08e9b213635af83ec3f55f2827be17b3b"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0123",
+   "short": "Decreto-Lei 123/1969",
+   "title": "Decreto-Lei nº 123, de 14/07/1969 (Dispõe sobre a criação de cargos no Quadro da Casa Civil)",
+   "url": "https://www.al.sp.gov.br/norma/48801",
+   "versions": [
+    {
+     "from": "1969-07-15",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-123-14.07.1969.html",
+     "sha256": "bdfcd2f1ec37c094ee645d45f08cdac70c22d8ba4afcf165cf8320ac42595004"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0126",
+   "short": "Decreto-Lei 126/1969",
+   "title": "Decreto-Lei nº 126, de 16/07/1969 (Dispõe sobre a inscrição da companheira de contribuintes na Caixa Beneficente da Guarda Civil de São Paulo )",
+   "url": "https://www.al.sp.gov.br/norma/48804",
+   "versions": [
+    {
+     "from": "1969-07-17",
+     "units": 6,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-126-16.07.1969.html",
+     "sha256": "b20e98ddcf2f52f13eefec90354052fc826fe0d2dd27cddbb32f33a21932f79c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0127",
+   "short": "Decreto-Lei 127/1969",
+   "title": "Decreto-Lei nº 127, de 16/07/1969 (Altera a denominação de cargo de Procurador Geral da Fazenda e dá outras providências)",
+   "url": "https://www.al.sp.gov.br/norma/48805",
+   "versions": [
+    {
+     "from": "1969-07-17",
+     "units": 8,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-127-16.07.1969.html",
+     "sha256": "cdab0d66ec89f97be08620e37f83e0411648f1ac60fb2c4dbe1bb8430b0f835d"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0136",
+   "short": "Decreto-Lei 136/1969",
+   "title": "Decreto-Lei nº 136, de 23/07/1969 (Dispõe sobre concessão de pensão mensal)",
+   "url": "https://www.al.sp.gov.br/norma/48814",
+   "versions": [
+    {
+     "from": "1969-07-24",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-136-23.07.1969.html",
+     "sha256": "df2defea70f24aa344a7786f0c087a88e83c2b508f042114cf624fca9b07c4b2"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0137",
+   "short": "Decreto-Lei 137/1969",
+   "title": "Decreto-Lei nº 137, de 24/07/1969 (Dispõe sobre a criação da Companhia de Processamento de Dados do Estado de São Paulo e dá outras providências)",
+   "url": "https://www.al.sp.gov.br/norma/48815",
+   "versions": [
+    {
+     "from": "1969-07-25",
+     "units": 12,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-137-24.07.1969.html",
+     "sha256": "d314b0c68f5a11883cfd31891d39937077a72deb95abbce938bd235ef65011b1"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0141",
+   "short": "Decreto-Lei 141/1969",
+   "title": "Decreto-Lei nº 141, de 24/07/1969 (Dispõe sobre a criação de cargos no Quadro da Secretaria da Segurança Pública e dá outras providências)",
+   "url": "https://www.al.sp.gov.br/norma/48819",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 23,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-141-24.07.1969.html",
+     "sha256": "6079e5ec696c95a5e2062d4dadd492bb6bb4c3ce74696b7921beff50a7a94149"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0145",
+   "short": "Decreto-Lei 145/1969",
+   "title": "Decreto-Lei nº 145, de 08/08/1969 (Dispõe sbre a criação do Parque Estadual de Jacupiranga e dá outras providências )",
+   "url": "https://www.al.sp.gov.br/norma/48823",
+   "versions": [
+    {
+     "from": "1969-08-12",
+     "units": 7,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-145-08.08.1969.html",
+     "sha256": "6c545845c3f5ec4c8c84d61901503c55bba993f1aed8d2e4fabb8141130bfba0"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0149",
+   "short": "Decreto-Lei 149/1969",
+   "title": "Decreto-Lei nº 149, de 15/08/1969 (Dispõe sobre o tombamento de bens, para a proteção do patrimônio histórico  e artístico estadual)",
+   "url": "https://www.al.sp.gov.br/norma/48827",
+   "versions": [
+    {
+     "from": "1969-08-16",
+     "units": 9,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-149-15.08.1969.html",
+     "sha256": "935f02e4d842d1ba382b81242806661b990869f83583a783219252028d47a3fd"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0150",
+   "short": "Decreto-Lei 150/1969",
+   "title": "Decreto-Lei nº 150, de 22/08/1969 (Dá nova redação ao artigo 17 da Lei n. 199, de 1.º de dezembro de 1948)",
+   "url": "https://www.al.sp.gov.br/norma/48828",
+   "versions": [
+    {
+     "from": "1969-08-23",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-150D-22.08.1969.html",
+     "sha256": "dd7c43cc865d9271a9b4a4dcb695e53cd4d47eed0ab9361b9083550374ac13a9"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-complementar-1969-003",
+   "short": "DLC 3/1969",
+   "title": "Decreto-Lei Complementar nº 3, de 27/08/1969 (Código Judiciário do Estado de São Paulo.\r\n)",
+   "url": "https://www.al.sp.gov.br/norma/46939",
+   "versions": [
+    {
+     "from": "1969-08-30",
+     "units": 265,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei.complementar/1969/decreto.lei.complementar-3-27.08.1969.html",
+     "sha256": "79c91cfc136e230daf76cc20373a7241210d0ec3f22539b26fad7eca48f791b6"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0152",
+   "short": "Decreto-Lei 152/1969",
+   "title": "Decreto-Lei nº 152, de 18/09/1969",
+   "url": "https://www.al.sp.gov.br/norma/48830",
+   "versions": [
+    {
+     "from": "1969-09-19",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-152-18.09.1969.html",
+     "sha256": "2b236e8162ced8c7f1752fb1a15fb0d2a424fbb2ac4c6160c6ae64a4fbb83f21"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-sn-72547",
+   "short": "Decreto-Lei s/n de 23/09/1969",
+   "title": "Decreto-Lei de 23/09/1969 (Altera a denominação do cargo de Criminologista-Chefe para Criminologista Assistente, atribuindo-lhe novo enquadramento )",
+   "url": "https://www.al.sp.gov.br/norma/72547",
+   "versions": [
+    {
+     "from": "1969-09-24",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-0A-23.09.1969.html",
+     "sha256": "7de274a8bc01527a09847ebc821de4ffe1b2754711e0b0e28980f9bbd3e3cb5f"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-sn-72551",
+   "short": "Decreto-Lei s/n de 23/09/1969",
+   "title": "Decreto-Lei de 23/09/1969 (Dispõe sobre a alteração do <a target='_blank' class='anotacao-link' href='/norma/48671'>Decreto-lei n. 84, de 29 de maio de 1969</a>)",
+   "url": "https://www.al.sp.gov.br/norma/72551",
+   "versions": [
+    {
+     "from": "1969-09-24",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-0E-23.09.1969.html",
+     "sha256": "2b9bba1b57650d32ad80d94288140f2027721023f25ad23eb71074f3380edf07"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-sn-72562",
+   "short": "Decreto-Lei s/n de 02/10/1969",
+   "title": "Decreto-Lei de 02/10/1969 (Dispõe sobre a criação de cargos no quadro da Secretaria da Saúde Pública e dá providências correlatas)",
+   "url": "https://www.al.sp.gov.br/norma/72562",
+   "versions": [
+    {
+     "from": "1969-10-03",
+     "units": 12,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-0-02.10.1969.html",
+     "sha256": "9450ecaf4e91b52ef6752cd727bbbf240ea168ef4f69943015cd784bee381cee"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-sn-72563",
+   "short": "Decreto-Lei s/n de 06/10/1969",
+   "title": "Decreto-Lei de 06/10/1969 (Cria, como entidade autárquica, o Centro Estadual de Educação Tecnológica de São Paulo e dá providências correlatas)",
+   "url": "https://www.al.sp.gov.br/norma/72563",
+   "versions": [
+    {
+     "from": "1969-10-07",
+     "units": 15,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-0-06.10.1969.html",
+     "sha256": "4c3f949f5c2ab82085490cae714eb0fb970bd54abbd807a90c37a2db0a7f2854"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-sn-72570",
+   "short": "Decreto-Lei s/n de 08/10/1969",
+   "title": "Decreto-Lei de 08/10/1969 (Acrescenta parágrafos ao artigo 6.º da <a target='_blank' class='anotacao-link' href='/norma/45235'>Lei n. 9.296, de 14 de abril de 1966</a>)",
+   "url": "https://www.al.sp.gov.br/norma/72570",
+   "versions": [
+    {
+     "from": "1969-10-09",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-0A-08.10.1969.html",
+     "sha256": "9fbccaa08bdbdd552590d4d19afdca7f538ee178d3914ecaedd0c54597d7bfa0"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-sn-72576",
+   "short": "Decreto-Lei s/n de 13/10/1969",
+   "title": "Decreto-Lei de 13/10/1969 (Acrescenta parágrafo ao artigo 36 da <a target='_blank' class='anotacao-link' href='/norma/28426'>Lei n. 10.123, de 27 de maio de 1968</a>)",
+   "url": "https://www.al.sp.gov.br/norma/72576",
+   "versions": [
+    {
+     "from": "1969-10-14",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-0B-13.10.1969.html",
+     "sha256": "c89782161084396503f4bf6afce847c43524b8c45c3fa2a39e7658327f361405"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-sn-72592",
+   "short": "Decreto-Lei s/n de 28/10/1969",
+   "title": "Decreto-Lei de 28/10/1969 (Dispõe sobre a criação do Museu de Arte Sacra de São Paulo )",
+   "url": "https://www.al.sp.gov.br/norma/72592",
+   "versions": [
+    {
+     "from": "1969-10-29",
+     "units": 10,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-0F-28.10.1969.html",
+     "sha256": "020f403b2e6983c30ca83baa8267ea44044f5a0072e06a058acbec3214c9527a"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1969-0158",
+   "short": "Decreto-Lei 158/1969",
+   "title": "Decreto-Lei nº 158, de 28/10/1969 (Dispõe sobre a Organização Judiciária do Estado de São Paulo )",
+   "url": "https://www.al.sp.gov.br/norma/48876",
+   "versions": [
+    {
+     "from": "1969-10-29",
+     "units": 115,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1969/decreto.lei-158-28.10.1969.html",
+     "sha256": "93ed37bcc95758289b1d9bc820956c052a46b26f4b9fd023f482edf87787d7e6"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0204",
+   "short": "Decreto-Lei 204/1970",
+   "title": "Decreto-Lei nº 204, de 25/03/1970 (Dispõe sobre material considerado inservível)",
+   "url": "https://www.al.sp.gov.br/norma/48960",
+   "versions": [
+    {
+     "from": "1970-03-26",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-204-25.03.1970.html",
+     "sha256": "4fb6742a3feaee5bf31480fcadd50e05168697305e66c0bac197116944635f84"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0208",
+   "short": "Decreto-Lei 208/1970",
+   "title": "Decreto-Lei nº 208, de 25/03/1970 (Dispõe sobre as frotas de veículos da Administração)",
+   "url": "https://www.al.sp.gov.br/norma/48964",
+   "versions": [
+    {
+     "from": "1970-03-26",
+     "units": 12,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-208-25.03.1970.html",
+     "sha256": "34ff08e27b724127bb83e5ac215e9b4bdeb18eeba14230e919d8bd2147066c7e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0209",
+   "short": "Decreto-Lei 209/1970",
+   "title": "Decreto-Lei nº 209, de 30/03/1970 (Dispõe sobre criação de cargo no Quadro da Casa Civil )",
+   "url": "https://www.al.sp.gov.br/norma/48965",
+   "versions": [
+    {
+     "from": "1970-03-31",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-209-30.03.1970.html",
+     "sha256": "d62f9bd7537eb72709c9d28f11e3a2319bcec114215317da6a4dff21b6bd5ae1"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0210",
+   "short": "Decreto-Lei 210/1970",
+   "title": "Decreto-Lei nº 210, de 30/03/1970 (Integra cargo no Quadro da Secretaria de Cultura, Esportes e Turismo, e dá providências correlatas)",
+   "url": "https://www.al.sp.gov.br/norma/48966",
+   "versions": [
+    {
+     "from": "1970-03-31",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-210-30.03.1970.html",
+     "sha256": "8e08f155503af296ce0b2a7242be19042925f1272a3ee47284ff82bf65921a23"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0211",
+   "short": "Decreto-Lei 211/1970",
+   "title": "Decreto-Lei nº 211, de 30/03/1970 (Dispõe sobre normas de promoção, preservação e recuperação da saúde, no campo de competência da Secretaria de Estado da Saúde, e dá providências correlatas)",
+   "url": "https://www.al.sp.gov.br/norma/48967",
+   "versions": [
+    {
+     "from": "1970-03-31",
+     "units": 26,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-211-30.03.1970.html",
+     "sha256": "d3f782a5c75a0f7c4f1473236e8995cc63eddf51995cf49c273e1184da62d686"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-complementar-1970-016",
+   "short": "DLC 16/1970",
+   "title": "Decreto-Lei Complementar nº 16, de 02/04/1970 (Dispõe sôbre a instituição e o funcionamento de fundos especiais, na Administração)",
+   "url": "https://www.al.sp.gov.br/norma/47812",
+   "versions": [
+    {
+     "from": "1970-04-03",
+     "units": 16,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei.complementar/1970/decreto.lei.complementar-16-02.04.1970.html",
+     "sha256": "9fd021ae0d35ee2b2de6694bc4f26efee8d36eb4b94f9a32ec3d195a124303a1"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0212",
+   "short": "Decreto-Lei 212/1970",
+   "title": "Decreto-Lei nº 212, de 02/04/1970 (Dispõe sobre a criação de cargos na Secretaria da Fazenda, e dá outras providências )",
+   "url": "https://www.al.sp.gov.br/norma/49409",
+   "versions": [
+    {
+     "from": "1970-04-03",
+     "units": 8,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-212-02.04.1970.html",
+     "sha256": "c389558518aaf903167aaa5582745ae20c3eeecde5bd92ee2ed5b718f027c47e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-sn-72699",
+   "short": "Decreto-Lei s/n de 03/04/1970",
+   "title": "Decreto-Lei de 03/04/1970 (Dá nova redação ao Artigo 1.º da <a target='_blank' class='anotacao-link' href='/norma/28417'>Lei n. 10.116, de 16 de maio de 1968</a> )",
+   "url": "https://www.al.sp.gov.br/norma/72699",
+   "versions": [
+    {
+     "from": "1970-04-04",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-0E-03.04.1970.html",
+     "sha256": "da72c5debebe4771b899d7efb72de8ea738bd0d8ca226de51dd87b4f3c4abe40"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-complementar-1970-017",
+   "short": "DLC 17/1970",
+   "title": "Decreto-Lei Complementar nº 17, de 03/04/1970",
+   "url": "https://www.al.sp.gov.br/norma/47815",
+   "versions": [
+    {
+     "from": "1970-04-04",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei.complementar/1970/decreto.lei.complementar-17-03.04.1970.html",
+     "sha256": "76e82a3128c50cebbc89d76145e34917458fd9946dc5b7e0a75b84dabebde41c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0217",
+   "short": "Decreto-Lei 217/1970",
+   "title": "Decreto-Lei nº 217, de 08/04/1970 (Dispõe sobre a constituição da Polícia Militar do Estado de São Paulo, integrada por elementos da Fôrça Pública do Estado e da Guarda Civil de São Paulo)",
+   "url": "https://www.al.sp.gov.br/norma/49415",
+   "versions": [
+    {
+     "from": "1970-04-09",
+     "units": 22,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-217-08.04.1970.html",
+     "sha256": "551ce1657558bc983211a1843c9a9fdd87d1afff425aa14211d7d3067c951f09"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0219",
+   "short": "Decreto-Lei 219/1970",
+   "title": "Decreto-Lei nº 219, de 10/04/1970",
+   "url": "https://www.al.sp.gov.br/norma/49419",
+   "versions": [
+    {
+     "from": "1970-04-11",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-219-10.04.1970.html",
+     "sha256": "52911e5cf0fd8d490d31898e96768709d9bd806cb512acf32ba8706881db975d"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0222",
+   "short": "Decreto-Lei 222/1970",
+   "title": "Decreto-Lei nº 222, de 16/04/1970 (Dispõe sobre a aplicação à Policia Militar do Estado de São Paulo da legislação referente à extinta Fôrça Pública)",
+   "url": "https://www.al.sp.gov.br/norma/49422",
+   "versions": [
+    {
+     "from": "1970-04-17",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-222-16.04.1970.html",
+     "sha256": "6331ae92777e331d86f966d5f522ccc47faa2ab0132136a21eb031412e1dad63"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-sn-72719",
+   "short": "Decreto-Lei s/n de 17/04/1970",
+   "title": "Decreto-Lei de 17/04/1970 (Dispõe sôbre concessão de pensão mensal)",
+   "url": "https://www.al.sp.gov.br/norma/72719",
+   "versions": [
+    {
+     "from": "1970-04-18",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-0C-17.04.1970.html",
+     "sha256": "aa9e5a94645b6d38b9a81bbfdf35d6c0f0115fa709d858c18e2b5bb81881a0dd"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-complementar-1970-018",
+   "short": "DLC 18/1970",
+   "title": "Decreto-Lei Complementar nº 18, de 17/04/1970 (Organiza o sistema de crédito do Estado, define a competência de seus órgãos e dá providências correlatas)",
+   "url": "https://www.al.sp.gov.br/norma/47816",
+   "versions": [
+    {
+     "from": "1970-04-18",
+     "units": 21,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei.complementar/1970/decreto.lei.complementar-18-17.04.1970.html",
+     "sha256": "83efae5b2f25ebf9469a0891e7d95b02e997055fb1f485aeb0a6fbdef2210292"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0223",
+   "short": "Decreto-Lei 223/1970",
+   "title": "Decreto-Lei nº 223, de 17/04/1970 (Restabelece as divisas entre os Municípios de Santo André e Município de Mauá)",
+   "url": "https://www.al.sp.gov.br/norma/49423",
+   "versions": [
+    {
+     "from": "1970-04-18",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-223-17.04.1970.html",
+     "sha256": "1419d134aad4b3186fe27569532cd52e65737e60d1b80ed8adbd358d06ed9cde"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0224",
+   "short": "Decreto-Lei 224/1970",
+   "title": "Decreto-Lei nº 224, de 17/04/1970",
+   "url": "https://www.al.sp.gov.br/norma/49424",
+   "versions": [
+    {
+     "from": "1970-04-18",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-224-17.04.1970.html",
+     "sha256": "3a62f99aec85ffe67b78a050d3d1122597b703491753eac89189186cd04be61e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0227",
+   "short": "Decreto-Lei 227/1970",
+   "title": "Decreto-Lei nº 227, de 17/04/1970 (Dispõe sobre o Regime de Tempo Integral e dá providências correlatas)",
+   "url": "https://www.al.sp.gov.br/norma/49427",
+   "versions": [
+    {
+     "from": "1970-04-18",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-227-17.04.1970.html",
+     "sha256": "e6db6347ba6398c3809fa11e51514027efda97c80fc0f1baaa5f06ec5bec593c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0229",
+   "short": "Decreto-Lei 229/1970",
+   "title": "Decreto-Lei nº 229, de 17/04/1970 (Cria a Junta de Coordenação Financeira do Estado de São Paulo)",
+   "url": "https://www.al.sp.gov.br/norma/49429",
+   "versions": [
+    {
+     "from": "1970-04-18",
+     "units": 10,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-229-17.04.1970.html",
+     "sha256": "be234b22eb4ce177fd721e2a41c7c68b61ea418c9e6fb8a5b4b9c43f84634674"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0232",
+   "short": "Decreto-Lei 232/1970",
+   "title": "Decreto-Lei nº 232, de 17/04/1970 (Dispõe sobre a criação, como entidade autárquica, da Superintendência de Saneamento Ambiental - SUSAM)",
+   "url": "https://www.al.sp.gov.br/norma/49432",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 16,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-232-17.04.1970.html",
+     "sha256": "bb802b437ea565b5b44d3696a3ffc8918321d1ef37152f3aaecb73fcc3f8217a"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0233",
+   "short": "Decreto-Lei 233/1970",
+   "title": "Decreto-Lei nº 233, de 28/04/1970 (Estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária da Administração Pública Estadual, Centralizada ou Direta)",
+   "url": "https://www.al.sp.gov.br/norma/49433",
+   "versions": [
+    {
+     "from": "1970-04-29",
+     "units": 19,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-233-28.04.1970.html",
+     "sha256": "15f02496baccca075db310a9dbe9bf0194ad931c6cd1c6f9c37bca652d811d66"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-sn-72726",
+   "short": "Decreto-Lei s/n de 30/04/1970",
+   "title": "Decreto-Lei de 30/04/1970 (Altera a denominação de cargo do Quadro da Secretaria de Cultura, Esportes e Turismo )",
+   "url": "https://www.al.sp.gov.br/norma/72726",
+   "versions": [
+    {
+     "from": "1970-05-01",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-0B-30.04.1970.html",
+     "sha256": "189d419e493ef6824511377d57fabf0ff586f12c5dfd19b7a1431e3c566a2495"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0237",
+   "short": "Decreto-Lei 237/1970",
+   "title": "Decreto-Lei nº 237, de 30/04/1970 (Transforma o Instituto Oscar Freire em autarquia )",
+   "url": "https://www.al.sp.gov.br/norma/49463",
+   "versions": [
+    {
+     "from": "1970-05-01",
+     "units": 14,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-237-30.04.1970.html",
+     "sha256": "090842152b648c1352403f3e03fb6ae1758bc3f07a226a0d8214f40b2adde73c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0238",
+   "short": "Decreto-Lei 238/1970",
+   "title": "Decreto-Lei nº 238, de 30/04/1970 (Dá nova redação ao Artigo 6.° do <a target='_blank' class='anotacao-link' href='/norma/49432'>Decreto-lei n. 232, de 17 de abril de 1970</a> )",
+   "url": "https://www.al.sp.gov.br/norma/49491",
+   "versions": [
+    {
+     "from": "1970-05-01",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-238-30.04.1970.html",
+     "sha256": "0abc2845fe7a68911ba3839e8dfafe2170940ea91aea2a27f699aba053ba6938"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-sn-72732",
+   "short": "Decreto-Lei s/n de 06/05/1970",
+   "title": "Decreto-Lei de 06/05/1970 (Dá nova redação ao inciso I do artigo 1.º, do Decreto-lei de 29, publicado a 30 de janeiro de 1970)",
+   "url": "https://www.al.sp.gov.br/norma/72732",
+   "versions": [
+    {
+     "from": "1970-05-07",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-0A-06.05.1970.html",
+     "sha256": "7a1924ecf8c6495c7f782cf41196be532bb432303c9eef5f73b3278af6b5479b"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-sn-72735",
+   "short": "Decreto-Lei s/n de 08/05/1970",
+   "title": "Decreto-Lei de 08/05/1970 (Altera a denominação de cargo que indica )",
+   "url": "https://www.al.sp.gov.br/norma/72735",
+   "versions": [
+    {
+     "from": "1970-05-09",
+     "units": 5,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-0A-08.05.1970.html",
+     "sha256": "28138fb8b01cacf7b30199fa049fcdad7cd9f1e1073a2b0796fbc4d575cff77e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0240",
+   "short": "Decreto-Lei 240/1970",
+   "title": "Decreto-Lei nº 240, de 12/05/1970 (Dispõe sobre medidas de apoio à modernização, reorganização e recuperação de empresas contribuintes do ICM )",
+   "url": "https://www.al.sp.gov.br/norma/49493",
+   "versions": [
+    {
+     "from": "1970-05-13",
+     "units": 17,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-240-12.05.1970.html",
+     "sha256": "2b76655ea1e8634ecadfd976f42a93680f59a1c7491982adbdfa131e0f774950"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0241",
+   "short": "Decreto-Lei 241/1970",
+   "title": "Decreto-Lei nº 241, de 13/05/1970 (Dispõe sobre o provimento de cargos de direção e chefia de hospitais do Estado )",
+   "url": "https://www.al.sp.gov.br/norma/49494",
+   "versions": [
+    {
+     "from": "1970-05-14",
+     "units": 6,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-241-13.05.1970.html",
+     "sha256": "dab52910bafb16c84f46fe42fb4a670fca74c01d1b481862ca9645d4ef127266"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-complementar-1970-020",
+   "short": "DLC 20/1970",
+   "title": "Decreto-Lei Complementar nº 20, de 15/05/1970",
+   "url": "https://www.al.sp.gov.br/norma/48158",
+   "versions": [
+    {
+     "from": "1970-05-16",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei.complementar/1970/decreto.lei.complementar-20-15.05.1970.html",
+     "sha256": "c832a9680f224a0bc47e61a462eb4e78d0589385d86d15a6a125c162ff4abb24"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-sn-72743",
+   "short": "Decreto-Lei s/n de 20/05/1970",
+   "title": "Decreto-Lei de 20/05/1970 (Dispõe sobre criação de cargos no Quadro da Secretaria da Segurança Pública )",
+   "url": "https://www.al.sp.gov.br/norma/72743",
+   "versions": [
+    {
+     "from": "1970-05-21",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-0F-20.05.1970.html",
+     "sha256": "d6d56866c96be0690a922526ffae1e339799de389e9d83fe54b01619eb52a083"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-complementar-1970-021",
+   "short": "DLC 21/1970",
+   "title": "Decreto-Lei Complementar nº 21, de 20/05/1970",
+   "url": "https://www.al.sp.gov.br/norma/48159",
+   "versions": [
+    {
+     "from": "1970-05-21",
+     "units": 7,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei.complementar/1970/decreto.lei.complementar-21-20.05.1970.html",
+     "sha256": "5449913478bc87e43493293cf66c0192bd592671ead71c90cfbca91827c30c6e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0243",
+   "short": "Decreto-Lei 243/1970",
+   "title": "Decreto-Lei nº 243, de 20/05/1970 (Dispõe sobre criação da Faculdade de Tecnologia de Sorocaba )",
+   "url": "https://www.al.sp.gov.br/norma/49496",
+   "versions": [
+    {
+     "from": "1970-05-21",
+     "units": 6,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-243-20.05.1970.html",
+     "sha256": "9c5b6683c197708dcaa77fef488177e9ec08f0f7785992bf684df9e43d38670c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0245",
+   "short": "Decreto-Lei 245/1970",
+   "title": "Decreto-Lei nº 245, de 20/05/1970 (Cria a Estância Hidromineral de Poá)",
+   "url": "https://www.al.sp.gov.br/norma/49498",
+   "versions": [
+    {
+     "from": "1970-05-21",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-245-20.05.1970.html",
+     "sha256": "f26cb9cdc909bb1ad04cbdbcb0296ca3d8e6ff5ee34c672ada091079d064710a"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-complementar-1970-023",
+   "short": "DLC 23/1970",
+   "title": "Decreto-Lei Complementar nº 23, de 29/05/1970 (Altera a redação de dispositivos do <a target='_blank' class='anotacao-link' href='/norma/47473'>Decreto-lei Complementar n. 7, de 6 de novembro de 1969</a>.)",
+   "url": "https://www.al.sp.gov.br/norma/48161",
+   "versions": [
+    {
+     "from": "1970-05-30",
+     "units": 4,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei.complementar/1970/decreto.lei.complementar-23-29.05.1970.html",
+     "sha256": "9085f21025d505ab6a188e9ea03b518b16dd9e15bca302822463b1134d63b341"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0246",
+   "short": "Decreto-Lei 246/1970",
+   "title": "Decreto-Lei nº 246, de 29/05/1970 (Dispõe sobre a criação do Museu do Mobiliário Artístico e Histórico Brasileiro)",
+   "url": "https://www.al.sp.gov.br/norma/49499",
+   "versions": [
+    {
+     "from": "1970-05-30",
+     "units": 17,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-246-29.05.1970.html",
+     "sha256": "e497d046bfbc4ec73e2ec3275069e4bd3904c6080acd4d8649ce85ba54ba9052"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0247",
+   "short": "Decreto-Lei 247/1970",
+   "title": "Decreto-Lei nº 247, de 29/05/1970 (Dispõe sobre a criação do Museu da Imagem e do Som do Estado de São Paulo )",
+   "url": "https://www.al.sp.gov.br/norma/49500",
+   "versions": [
+    {
+     "from": "1970-05-30",
+     "units": 19,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-247-29.05.1970.html",
+     "sha256": "d132c1c1d7297787f09a20fd3fb7ea55bae2faa56fcb7b03f04f35627dfe253d"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0250",
+   "short": "Decreto-Lei 250/1970",
+   "title": "Decreto-Lei nº 250, de 29/05/1970 (Cria, como entidade autárquica, o Instituto de Energia Atômica (I.E.A.) )",
+   "url": "https://www.al.sp.gov.br/norma/49503",
+   "versions": [
+    {
+     "from": "1970-05-30",
+     "units": 15,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-250-29.05.1970.html",
+     "sha256": "69370736c2414e2f2bfbca00d6d7d29ad9b7bcfba81039f7ef66855e92b34c5e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0252",
+   "short": "Decreto-Lei 252/1970",
+   "title": "Decreto-Lei nº 252, de 29/05/1970 (Cria, na Justiça Militar do Estado, a Segunda Auditoria e dá providências correlatas )",
+   "url": "https://www.al.sp.gov.br/norma/49537",
+   "versions": [
+    {
+     "from": "1970-05-30",
+     "units": 9,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-252-29.05.1970.html",
+     "sha256": "0353cae386aced8eb10fbdb06595304c6c1bc850378ce3777fdcca88246571d5"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0255",
+   "short": "Decreto-Lei 255/1970",
+   "title": "Decreto-Lei nº 255, de 29/05/1970 (Autoriza o Poder Executivo a constituir a Companhia de Promoção de Exportações de Manufaturados do Estado de São Paulo (COPEME) )",
+   "url": "https://www.al.sp.gov.br/norma/49540",
+   "versions": [
+    {
+     "from": "1970-05-30",
+     "units": 7,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-255-29.05.1970.html",
+     "sha256": "1f825c280fc553e63d768c84573d428230df1160089630c21d763daecfa3168c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0256",
+   "short": "Decreto-Lei 256/1970",
+   "title": "Decreto-Lei nº 256, de 29/05/1970 (Dispõe sobre a criação, como entidade autárquica, da Superintendência de Comunidade de Trabalho)",
+   "url": "https://www.al.sp.gov.br/norma/49541",
+   "versions": [
+    {
+     "from": "1970-05-30",
+     "units": 13,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-256-29.05.1970.html",
+     "sha256": "02d3f28f5d991804c5a96e1a2b67ddea43b500faf1d5a5099e19fc7f16bae806"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0257",
+   "short": "Decreto-Lei 257/1970",
+   "title": "Decreto-Lei nº 257, de 29/05/1970 (Dispõe sôbre a finalidade e organização básica de Instituto de Assistência Médica ao Servidor Público Estadual - IAMSPE )",
+   "url": "https://www.al.sp.gov.br/norma/49542",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 30,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-257-29.05.1970.html",
+     "sha256": "83946df35866d5b1ef6281a274df1358c6ddf221a9cd46a4c64e702852b2a707"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0258",
+   "short": "Decreto-Lei 258/1970",
+   "title": "Decreto-Lei nº 258, de 29/05/1970 (Dispõe sobre a criação, como entidade autárquica, do Fomento de Urbanização e Melhoria das Estâncias - \"FUMEST\" )",
+   "url": "https://www.al.sp.gov.br/norma/49545",
+   "versions": [
+    {
+     "from": "1970-05-30",
+     "units": 11,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-258-29.05.1970.html",
+     "sha256": "d29973c16c5cb15b3ea16e968be857b0c002fb70efda00b1b700aee51020f501"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0259",
+   "short": "Decreto-Lei 259/1970",
+   "title": "Decreto-Lei nº 259, de 29/05/1970 (Institui, como Estância Hidromineral, o Município de Lindóia)",
+   "url": "https://www.al.sp.gov.br/norma/49546",
+   "versions": [
+    {
+     "from": "1970-05-30",
+     "units": 3,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-259-29.05.1970.html",
+     "sha256": "cc16cefbbfcf24bcada4a929ca376d4c46f5b21fc4c5b3acd138acf2e2e6a7ea"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-lei-1970-0260",
+   "short": "Decreto-Lei 260/1970",
+   "title": "Decreto-Lei nº 260, de 29/05/1970 (Dispõe sôbre a inatividade dos componentes da Polícia Militar do Estado de São Paulo)",
+   "url": "https://www.al.sp.gov.br/norma/49548",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 44,
+     "source_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto.lei/1970/decreto.lei-260-29.05.1970.html",
+     "sha256": "ae50ac05a9cce396bf3d87dd0acf8177fa32b9e48cd5787ade0897367bc840b1"
+    }
+   ]
   }
  ]
 }

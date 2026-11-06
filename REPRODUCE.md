@@ -1,6 +1,6 @@
 # How this repository was made (São Paulo)
 
-This file is written by the build on 2026-10-31, the day the source data was retrieved.
+This file is written by the build on 2026-11-06, the day the source data was retrieved.
 
 ## Sources
 
@@ -444,6 +444,9 @@ This file is written by the build on 2026-10-31, the day the source data was ret
 | Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-10-30 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-10-30 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-10-30 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -22659,20 +22662,164 @@ Nuporanga, o imóvel que especifica.) | 1 | 2009-09-25 to 2009-09-25 |
 | `lei-2026-18497` | Lei nº 18.497, de 25/08/2026 | 1 | 2026-08-26 to 2026-08-26 |
 | `lei-2026-18498` | Lei nº 18.498, de 14/10/2026 | 1 | 2026-10-16 to 2026-10-16 |
 | `lei-2026-18499` | Lei nº 18.499, de 28/10/2026 | 1 | 2026-10-29 to 2026-10-29 |
+| `decreto-lei-1938-9428` | Decreto-Lei nº 9.428, de 19/08/1938 (Cria o o Conselho Técnico de Economia e Finanças) | 1 | 1938-08-20 to 1938-08-20 |
+| `decreto-lei-1940-11032` | Decreto-Lei nº 11.032, de 16/04/1940 (Transforma, no Instituto Butatã, a Seção de Fisiopatologia Experimental, em Seção de Endocrinologia, e extingue a Seção de Medicina Experimental) | 1 | 1940-04-17 to 1940-04-17 |
+| `decreto-lei-1940-11181` | Decreto-Lei nº 11.181, de 24/06/1940 (Abre, no Tesouro do Estado, à Secretaria do Governo, o crédito especial de 200:00$000) | 1 | 1940-06-26 to 1940-06-26 |
+| `decreto-lei-1940-11522` | Decreto-Lei nº 11.522, de 26/10/1940 (Cria o Instituto "Adolfo Lutz" (Laboratório Central de Saúde Pública) e dá outra providências) | 1 | 1940-10-27 to 1940-10-27 |
+| `decreto-lei-1941-11877` | Decreto-Lei nº 11.877, de 17/03/1941 | 1 | 1941-03-18 to 1941-03-18 |
+| `decreto-lei-1941-11878` | Decreto-Lei nº 11.878, de 17/03/1941 (Suprime a 1.ª zona do distrito de Mangaratú, comarca de Nova Granada, anexando-se o respectivo território ao da 2.ª zona) | 1 | 1941-03-18 to 1941-03-18 |
+| `decreto-lei-1941-11953` | Decreto-Lei nº 11.953, de 30/04/1941 (Transfere diversas importâncias, num total de rs.10:000$000, dentro da verba 278, § 32, do orçamento vigente) | 1 | 1941-05-01 to 1941-05-01 |
+| `decreto-lei-1941-12182` | Decreto-Lei nº 12.182, de 17/09/1941 (Transfere a importância de Rs. 10:000$000, dentro da verba n. 310, § 33, do orçamento vigente) | 1 | 1941-09-18 to 1941-09-18 |
+| `decreto-lei-1941-12491` | Decreto-Lei nº 12.491-E, de 31/12/1941 (Abre, na Contadoria da Prefeitura Sanitária de Águas da Prata, deste Estado um crédito suplementar de rs. 12:106$000 (doze contos e seis mil réis)) | 1 | 1942-02-26 to 1942-02-26 |
+| `decreto-lei-1942-12507` | Decreto-Lei nº 12.507, de 17/01/1942 (Dispõe sobre a execução do artigo 18 do <a target='_blank' class='anotacao-link' href='/norma/68926'>Decreto-lei n. 12.504, de 10 de janeiro de 1942</a>) | 1 | 1942-01-18 to 1942-01-18 |
+| `decreto-lei-1942-12550` | Decreto-Lei nº 12.550, de 10/02/1942 (Dispõe sobre desdobramento da Verba n. 31, do orçamento vigente) | 1 | 1942-02-11 to 1942-02-11 |
+| `decreto-lei-1942-12579` | Decreto-Lei nº 12.579, de 05/03/1942 (Declara de utilidade pública imóveis situados no Distrito, Município e Comarca de Sorocaba) | 1 | 1942-03-08 to 1942-03-08 |
+| `decreto-lei-1942-12764` | Decreto-Lei nº 12.764, de 22/06/1942 (Dispõe sobre a linha divisória entre os terrenos da Sociedade Construtora e de Imóveis S/A e os da antiga Represa do Ipiranga) | 1 | 1942-06-23 to 1942-06-23 |
+| `decreto-lei-1942-12784` | Decreto-Lei nº 12.784, de 24/06/1942 (Reorganiza o Serviço do Interior, do Departamento de Saúde) | 1 | 1942-06-26 to 1942-06-26 |
+| `decreto-lei-1942-12823` | Decreto-Lei nº 12.823, de 28/07/1942 (Cria, na Faculdade de Medicina Veterinária, a Secção de Rádio-diagnóstico e Fisioterapia, e dá outras providências) | 1 | 1942-08-02 to 1942-08-02 |
+| `decreto-lei-1942-12855` | Decreto-Lei nº 12.855, de 05/08/1942 | 1 | 1942-08-06 to 1942-08-06 |
+| `decreto-lei-1942-12874` | Decreto-Lei nº 12.874, de 14/08/1942 (Dispõe sobre a concessão de auxílios na Prefeitura da Estância Hidromineral de Lindoia) | 1 | 1942-08-15 to 1942-08-15 |
+| `decreto-lei-1942-12882` | Decreto-Lei nº 12.882, de 19/08/1942 (Autoriza a Fazenda do Estado a doar à Prefeitura Municipal de Olímpia, área de terreno) | 1 | 1942-08-20 to 1942-08-20 |
+| `decreto-lei-1942-12918` | Decreto-Lei nº 12.918, de 01/09/1942 | 1 | 1942-09-03 to 1942-09-03 |
+| `decreto-lei-1942-12982` | Decreto-Lei nº 12.982, de 07/10/1942 (Abre à Secretaria da Segurança Pública um crédito especial de rs. 500:000$000) | 1 | 1942-10-08 to 1942-10-08 |
+| `decreto-lei-1942-13008` | Decreto-Lei nº 13.008, de 24/10/1942 (Abre um crédito especial de Rs. 560:000$000, à Seecretaria da Interventoria) | 1 | 1942-10-25 to 1942-10-25 |
+| `decreto-lei-1942-13028` | Decreto-Lei nº 13.028, de 27/10/1942 (Declara de utilidade pública, terrenos necessários à construção de prédio para Grupo Escolar) | 1 | 1942-10-30 to 1942-10-30 |
+| `decreto-lei-1943-13192` | Decreto-Lei nº 13.192, de 19/01/1943 (Dispõe sobre organização do Hospital das Clínicas) | 1 | 1943-01-22 to 1943-01-22 |
+| `decreto-lei-1943-13232` | Decreto-Lei nº 13.232, de 12/02/1943 | 1 | 1943-02-14 to 1943-02-14 |
+| `decreto-lei-1943-13260` | Decreto-Lei nº 13.260, de 03/03/1943 (Autoriza o Estado a receber, em doação, terreno situado em Vera Cruz) | 1 | 1943-03-04 to 1943-03-04 |
+| `decreto-lei-1943-13315` | Decreto-Lei nº 13.315, de 12/04/1943 | 1 | 1943-04-13 to 1943-04-13 |
+| `decreto-lei-1943-13323` | Decreto-Lei nº 13.323, de 26/04/1943 (Autoriza a Fazenda do Estado a receber, em doação, terreno situado em Cruzeiro, destinado à construção de um prédio para o Grupo Escolar) | 1 | 1943-04-27 to 1943-04-27 |
+| `decreto-lei-1943-13507` | Decreto-Lei nº 13.507, de 12/08/1943 (Dá nova redação à letra "a" do artigo 1.º do <a target='_blank' class='anotacao-link' href='/norma/69185'>Decreto-lei n. 12.741, de 3 de junho de 1942</a>) | 1 | 1943-08-13 to 1943-08-13 |
+| `decreto-lei-1943-13626` | Decreto-Lei nº 13.626, de 21/10/1943 (Dispõe sobre normas para o traçado das estradas de rodagem estaduais) | 1 | 1943-10-27 to 1943-10-27 |
+| `decreto-lei-1943-13654` | Decreto-Lei nº 13.654, de 06/11/1943 (Dispõe sobre promoção de oficiais da Força Policial do Estado) | 1 | 2026-04-02 to 2026-04-02 |
+| `decreto-lei-1944-13813` | Decreto-Lei nº 13.813, de 13/01/1944 (Dispõe sobre criação do cartório do 3.º ofício na comarca de Presidente Prudente) | 1 | 1944-01-14 to 1944-01-14 |
+| `decreto-lei-1944-13884` | Decreto-Lei nº 13.884, de 09/03/1944 (Transforma o Serviço Administrativo da Força Policial do Estado em a 4.ª Seção da Diretoria do Pessoal da Secretaria da Segurança Pública) | 1 | 1944-03-10 to 1944-03-10 |
+| `decreto-lei-1944-13920` | Decreto-Lei nº 13.920, de 25/03/1944 (Dispõe sobre criação de 4 secções técnicas na Escola Superior de Agricultura "Luiz de Queiroz") | 1 | 1944-03-26 to 1944-03-26 |
+| `decreto-lei-1944-14150` | Decreto-Lei nº 14.150, de 29/08/1944 (Dispõe sobre concessão de auxílio e dá outras providências) | 1 | 1944-08-30 to 1944-08-30 |
+| `decreto-lei-1944-14151` | Decreto-Lei nº 14.151, de 29/08/1944 (Dispõe sobre concessão de auxílios na Prefeitura Sanitária de Campos do Jordão) | 1 | 1944-08-30 to 1944-08-30 |
+| `decreto-lei-1944-14296` | Decreto-Lei nº 14.296, de 21/11/1944 | 1 | 1944-11-22 to 1944-11-22 |
+| `decreto-lei-1944-14334` | Decreto-Lei nº 14.334, de 30/11/1944 (Divisão administrativa e judiciária do Estado) | 1 | 1945-05-15 to 1945-05-15 |
+| `decreto-lei-1944-14370` | Decreto-Lei nº 14.370, de 15/12/1944 (Dispõe sobre abertura de crédito especial de Cr$ 1.465.000,00) | 1 | 1944-12-16 to 1944-12-16 |
+| `decreto-lei-1945-14797` | Decreto-Lei nº 14.797, de 18/06/1945 (Dispõe sobre transferência da cadeira de Clínica Otorrinolaringológica do 4.º para o 6.º ano do curso da Faculdade de Medicina) | 1 | 1945-06-19 to 1945-06-19 |
+| `decreto-lei-1945-14939` | Decreto-Lei nº 14.939, de 17/08/1945 (Altera o <a target='_blank' class='anotacao-link' href='/norma/130299'>decreto-lei n. 13.654, de 6-11-1943</a>, e dá outras providências.) | 1 | 1945-08-18 to 1945-08-18 |
+| `decreto-lei-1945-14995` | Decreto-Lei nº 14.995, de 03/09/1945 (Dispõe sobre criação de cargos no Quadro da Justiça) | 1 | 1945-09-04 to 1945-09-04 |
+| `decreto-lei-1945-15029` | Decreto-Lei nº 15.029, de 17/09/1945 (Dá nova redação ao artigo 21, do <a target='_blank' class='anotacao-link' href='/norma/130299'>decreto-lei n. 13.654, de 6 de novembro de 1943</a>.) | 1 | 1945-09-18 to 1945-09-18 |
+| `decreto-lei-1945-15311` | Decreto-Lei nº 15.311, de 13/12/1945 | 1 | 1945-12-19 to 1945-12-19 |
+| `decreto-lei-1946-15525` | Decreto-Lei nº 15.525, de 07/01/1946 (Dispõe sobre contas nas Caixas Econômicas do Estado) | 1 | 1946-01-08 to 1946-01-08 |
+| `decreto-lei-1946-15526` | Decreto-Lei nº 15.526, de 07/01/1946 (Modifica a alínea "c" do artigo 2.º do <a target='_blank' class='anotacao-link' href='/norma/67724'>Decreto-lei n. 15.400, de 27 de dezembro de 1945</a>) | 1 | 1946-01-08 to 1946-01-08 |
+| `decreto-lei-1946-15531` | Decreto-Lei nº 15.531, de 14/01/1946 (Modifica dispositivo do <a target='_blank' class='anotacao-link' href='/norma/68689'>Decreto-lei n. 13.239, de 16 de fevereiro de 1943</a>) | 1 | 1946-01-16 to 1946-01-16 |
+| `decreto-lei-1946-15532` | Decreto-Lei nº 15.532, de 14/01/1946 (Aprova projeto de decretos-leis de diversos municípios, que dispõem sobre concessão de sepulturas e que dão outras providências) | 1 | 1946-01-16 to 1946-01-16 |
+| `decreto-lei-1946-15541` | Decreto-Lei nº 15.541, de 15/01/1946 (Dispõe sobre isenção de imposto) | 1 | 1946-01-16 to 1946-01-16 |
+| `decreto-lei-1946-15620` | Decreto-Lei nº 15.620, de 29/01/1946 (Dispõe sobre o "Código de Vencimentos e Vantagens de Oficiais e Praças da Força Policial do Estado") | 1 | 1946-02-10 to 1946-02-10 |
+| `decreto-lei-1946-15896` | Decreto-Lei nº 15.896, de 15/07/1946 (Dispõe sobre criação de cargo) | 1 | 1946-07-16 to 1946-07-16 |
+| `decreto-lei-1946-16349` | Decreto-Lei nº 16.349, de 27/11/1946 (Dispõe sobre restauração dos símbolos estaduais) | 1 | 1946-11-28 to 1946-11-28 |
+| `decreto-lei-1946-16439` | Decreto-Lei nº 16.439, de 06/12/1946 (Dispõe sobre reestruturação da carreira de Agrônomo) | 1 | 1946-12-07 to 1946-12-07 |
+| `decreto-lei-1946-16546` | Decreto-Lei nº 16.546, de 26/12/1946 (Dispõe sobre a reorganização do Departamento de Estradas de Rodagem) | 1 | 2024-09-23 to 2024-09-23 |
+| `decreto-lei-1947-16701` | Decreto-Lei nº 16.701, de 10/01/1947 (Aprova o orçamento da Universidade de São Paulo, para o exercício de 1947) | 1 | 1947-01-25 to 1947-01-25 |
+| `decreto-lei-1947-16724` | Decreto-Lei nº 16.724, de 16/01/1947 (Dispõe sobre criação de Divisões de Diversões Públicas e de Radiodifusão e dá outras providências) | 1 | 1947-01-17 to 1947-01-17 |
+| `decreto-lei-1947-17252` | Decreto-Lei nº 17.252, de 29/05/1947 (Dispõe sobre criação da Assessoria Técnico-Legislativa ) | 1 | 1947-05-30 to 1947-05-30 |
+| `decreto-lei-1947-17315` | Decreto-Lei nº 17.315, de 23/06/1947 (Dispõe sobre aplicação de crédito especial) | 1 | 1947-06-24 to 1947-06-24 |
+| `decreto-lei-1969-0002` | Decreto-Lei nº 2, de 24/02/1969 (Dispõe sobre concessão de abono aos servidores civis do Estado e dá outras providências) | 1 | 1969-02-25 to 1969-02-25 |
+| `decreto-lei-1969-0003` | Decreto-Lei nº 3, de 28/02/1969 (Dispõe sobre a criação dos cargos que especifica, no Quadro do Ensino, e dá outras providências ) | 1 | 1969-03-01 to 1969-03-01 |
+| `decreto-lei-1969-0004` | Decreto-Lei nº 4, de 06/03/1969 | 1 | 1969-03-07 to 1969-03-07 |
+| `decreto-lei-1969-0005` | Decreto-Lei nº 5, de 06/03/1969 | 1 | 1969-03-07 to 1969-03-07 |
+| `decreto-lei-1969-0008` | Decreto-Lei nº 8, de 21/03/1969 (Dá nova redação ao artigo 30 da <a target='_blank' class='anotacao-link' href='/norma/39403'>Lei n. 4.832, de 4 de setembro de 1958</a>) | 1 | 1969-03-22 to 1969-03-22 |
+| `decreto-lei-1969-0026` | Decreto-Lei nº 26, de 28/03/1969 (Transfere para o dia 30 de abril a data de comemoração do "Dia do Ferroviário Paulista" ) | 1 | 1969-03-29 to 1969-03-29 |
+| `decreto-lei-1969-0030` | Decreto-Lei nº 30, de 02/04/1969 (Autoriza a Fazenda Estadual a adquirir imóveis de propriedade do Instituto de Previdência do Estado de São Paulo e dá outras providências) | 1 | 1969-04-03 to 1969-04-03 |
+| `decreto-lei-1969-0037` | Decreto-Lei nº 37, de 10/04/1969 | 1 | 1969-04-11 to 1969-04-11 |
+| `decreto-lei-1969-0045` | Decreto-Lei nº 45, de 18/04/1969 (Dispõe sobre a criação de distritos policiais no Município de Santos e dá outras providências ) | 1 | 1969-04-19 to 1969-04-19 |
+| `decreto-lei-1969-0047` | Decreto-Lei nº 47, de 23/04/1969 (Dispõe sobre a criação de cargos no Quadro da Secretaria da Fazenda, e dá outras providências ) | 1 | 1969-04-24 to 1969-04-24 |
+| `decreto-lei-1969-0049` | Decreto-Lei nº 49, de 25/04/1969 (Dispõe sobre a instituição da "Campanha de Combate à Febre Aftosa" e dá outras providências ) | 1 | 1969-04-26 to 1969-04-26 |
+| `decreto-lei-1969-0059` | Decreto-Lei nº 59, de 15/05/1969 (Dispõe sôbre concessão de pensão mensal) | 1 | 1969-05-16 to 1969-05-16 |
+| `decreto-lei-1969-0063` | Decreto-Lei nº 63, de 15/05/1969 (Dispõe sobre a constituição de sociedade anônima, com a denominação de "Companhia Docas de São Sebastião" e dá outras providências) | 1 | 1969-05-16 to 1969-05-16 |
+| `decreto-lei-1969-0071` | Decreto-Lei nº 71, de 23/05/1969 | 1 | 1969-05-24 to 1969-05-24 |
+| `decreto-lei-1969-0080` | Decreto-Lei nº 80, de 28/05/1969 (Dispõe sôbre transformação de cargos da Secretaria da Segurança Pública) | 1 | 1969-05-29 to 1969-05-29 |
+| `decreto-lei-1969-0084` | Decreto-Lei nº 84, de 29/05/1969 (Dispõe sobre a criação, no Departamento de Estradas de Rodagem, do "Fundo de Conservação de Rodovias") | 1 | 1969-05-30 to 1969-05-30 |
+| `decreto-lei-1969-0088` | Decreto-Lei nº 88, de 30/05/1969 (Altera a redação do artigo 40 da Lei n. 10.168, de 10 de agosto de 1968 e dá outras providências. ) | 1 | 1969-06-03 to 1969-06-03 |
+| `decreto-lei-1969-0092` | Decreto-Lei nº 92, de 06/06/1969 | 1 | 1969-06-07 to 1969-06-07 |
+| `decreto-lei-1969-0094` | Decreto-Lei nº 94, de 11/06/1969 | 1 | 1969-06-12 to 1969-06-12 |
+| `decreto-lei-1969-0095` | Decreto-Lei nº 95, de 12/06/1969 (Dá nova redação ao artigo 3.º do <a target='_blank' class='anotacao-link' href='/norma/48460'>Decreto-lei n. 30, de 2 de abril de 1969</a> ) | 1 | 1969-06-13 to 1969-06-13 |
+| `decreto-lei-1969-0099` | Decreto-Lei nº 99, de 18/06/1969 (Dispõe sôbre a realização de concursos e dá outras providências) | 1 | 1969-06-19 to 1969-06-19 |
+| `decreto-lei-1969-0100` | Decreto-Lei nº 100, de 18/06/1969 (Dispõe sobre a criação de cargos no Quadro da Casa Civil e dá outras providências ) | 1 | 1969-06-19 to 1969-06-19 |
+| `decreto-lei-1969-0112` | Decreto-Lei nº 112, de 26/06/1969 (Altera a denominação dos cargos que especifica e dá outras providências ) | 1 | 1969-06-27 to 1969-06-27 |
+| `decreto-lei-1969-0121` | Decreto-Lei nº 121, de 04/07/1969 | 1 | 1969-07-05 to 1969-07-05 |
+| `decreto-lei-1969-0123` | Decreto-Lei nº 123, de 14/07/1969 (Dispõe sobre a criação de cargos no Quadro da Casa Civil) | 1 | 1969-07-15 to 1969-07-15 |
+| `decreto-lei-1969-0126` | Decreto-Lei nº 126, de 16/07/1969 (Dispõe sobre a inscrição da companheira de contribuintes na Caixa Beneficente da Guarda Civil de São Paulo ) | 1 | 1969-07-17 to 1969-07-17 |
+| `decreto-lei-1969-0127` | Decreto-Lei nº 127, de 16/07/1969 (Altera a denominação de cargo de Procurador Geral da Fazenda e dá outras providências) | 1 | 1969-07-17 to 1969-07-17 |
+| `decreto-lei-1969-0136` | Decreto-Lei nº 136, de 23/07/1969 (Dispõe sobre concessão de pensão mensal) | 1 | 1969-07-24 to 1969-07-24 |
+| `decreto-lei-1969-0137` | Decreto-Lei nº 137, de 24/07/1969 (Dispõe sobre a criação da Companhia de Processamento de Dados do Estado de São Paulo e dá outras providências) | 1 | 1969-07-25 to 1969-07-25 |
+| `decreto-lei-1969-0141` | Decreto-Lei nº 141, de 24/07/1969 (Dispõe sobre a criação de cargos no Quadro da Secretaria da Segurança Pública e dá outras providências) | 1 | 2026-04-02 to 2026-04-02 |
+| `decreto-lei-1969-0145` | Decreto-Lei nº 145, de 08/08/1969 (Dispõe sbre a criação do Parque Estadual de Jacupiranga e dá outras providências ) | 1 | 1969-08-12 to 1969-08-12 |
+| `decreto-lei-1969-0149` | Decreto-Lei nº 149, de 15/08/1969 (Dispõe sobre o tombamento de bens, para a proteção do patrimônio histórico  e artístico estadual) | 1 | 1969-08-16 to 1969-08-16 |
+| `decreto-lei-1969-0150` | Decreto-Lei nº 150, de 22/08/1969 (Dá nova redação ao artigo 17 da Lei n. 199, de 1.º de dezembro de 1948) | 1 | 1969-08-23 to 1969-08-23 |
+| `decreto-lei-complementar-1969-003` | Decreto-Lei Complementar nº 3, de 27/08/1969 (Código Judiciário do Estado de São Paulo.
+) | 1 | 1969-08-30 to 1969-08-30 |
+| `decreto-lei-1969-0152` | Decreto-Lei nº 152, de 18/09/1969 | 1 | 1969-09-19 to 1969-09-19 |
+| `decreto-lei-1969-sn-72547` | Decreto-Lei de 23/09/1969 (Altera a denominação do cargo de Criminologista-Chefe para Criminologista Assistente, atribuindo-lhe novo enquadramento ) | 1 | 1969-09-24 to 1969-09-24 |
+| `decreto-lei-1969-sn-72551` | Decreto-Lei de 23/09/1969 (Dispõe sobre a alteração do <a target='_blank' class='anotacao-link' href='/norma/48671'>Decreto-lei n. 84, de 29 de maio de 1969</a>) | 1 | 1969-09-24 to 1969-09-24 |
+| `decreto-lei-1969-sn-72562` | Decreto-Lei de 02/10/1969 (Dispõe sobre a criação de cargos no quadro da Secretaria da Saúde Pública e dá providências correlatas) | 1 | 1969-10-03 to 1969-10-03 |
+| `decreto-lei-1969-sn-72563` | Decreto-Lei de 06/10/1969 (Cria, como entidade autárquica, o Centro Estadual de Educação Tecnológica de São Paulo e dá providências correlatas) | 1 | 1969-10-07 to 1969-10-07 |
+| `decreto-lei-1969-sn-72570` | Decreto-Lei de 08/10/1969 (Acrescenta parágrafos ao artigo 6.º da <a target='_blank' class='anotacao-link' href='/norma/45235'>Lei n. 9.296, de 14 de abril de 1966</a>) | 1 | 1969-10-09 to 1969-10-09 |
+| `decreto-lei-1969-sn-72576` | Decreto-Lei de 13/10/1969 (Acrescenta parágrafo ao artigo 36 da <a target='_blank' class='anotacao-link' href='/norma/28426'>Lei n. 10.123, de 27 de maio de 1968</a>) | 1 | 1969-10-14 to 1969-10-14 |
+| `decreto-lei-1969-sn-72592` | Decreto-Lei de 28/10/1969 (Dispõe sobre a criação do Museu de Arte Sacra de São Paulo ) | 1 | 1969-10-29 to 1969-10-29 |
+| `decreto-lei-1969-0158` | Decreto-Lei nº 158, de 28/10/1969 (Dispõe sobre a Organização Judiciária do Estado de São Paulo ) | 1 | 1969-10-29 to 1969-10-29 |
+| `decreto-lei-1970-0204` | Decreto-Lei nº 204, de 25/03/1970 (Dispõe sobre material considerado inservível) | 1 | 1970-03-26 to 1970-03-26 |
+| `decreto-lei-1970-0208` | Decreto-Lei nº 208, de 25/03/1970 (Dispõe sobre as frotas de veículos da Administração) | 1 | 1970-03-26 to 1970-03-26 |
+| `decreto-lei-1970-0209` | Decreto-Lei nº 209, de 30/03/1970 (Dispõe sobre criação de cargo no Quadro da Casa Civil ) | 1 | 1970-03-31 to 1970-03-31 |
+| `decreto-lei-1970-0210` | Decreto-Lei nº 210, de 30/03/1970 (Integra cargo no Quadro da Secretaria de Cultura, Esportes e Turismo, e dá providências correlatas) | 1 | 1970-03-31 to 1970-03-31 |
+| `decreto-lei-1970-0211` | Decreto-Lei nº 211, de 30/03/1970 (Dispõe sobre normas de promoção, preservação e recuperação da saúde, no campo de competência da Secretaria de Estado da Saúde, e dá providências correlatas) | 1 | 1970-03-31 to 1970-03-31 |
+| `decreto-lei-complementar-1970-016` | Decreto-Lei Complementar nº 16, de 02/04/1970 (Dispõe sôbre a instituição e o funcionamento de fundos especiais, na Administração) | 1 | 1970-04-03 to 1970-04-03 |
+| `decreto-lei-1970-0212` | Decreto-Lei nº 212, de 02/04/1970 (Dispõe sobre a criação de cargos na Secretaria da Fazenda, e dá outras providências ) | 1 | 1970-04-03 to 1970-04-03 |
+| `decreto-lei-1970-sn-72699` | Decreto-Lei de 03/04/1970 (Dá nova redação ao Artigo 1.º da <a target='_blank' class='anotacao-link' href='/norma/28417'>Lei n. 10.116, de 16 de maio de 1968</a> ) | 1 | 1970-04-04 to 1970-04-04 |
+| `decreto-lei-complementar-1970-017` | Decreto-Lei Complementar nº 17, de 03/04/1970 | 1 | 1970-04-04 to 1970-04-04 |
+| `decreto-lei-1970-0217` | Decreto-Lei nº 217, de 08/04/1970 (Dispõe sobre a constituição da Polícia Militar do Estado de São Paulo, integrada por elementos da Fôrça Pública do Estado e da Guarda Civil de São Paulo) | 1 | 1970-04-09 to 1970-04-09 |
+| `decreto-lei-1970-0219` | Decreto-Lei nº 219, de 10/04/1970 | 1 | 1970-04-11 to 1970-04-11 |
+| `decreto-lei-1970-0222` | Decreto-Lei nº 222, de 16/04/1970 (Dispõe sobre a aplicação à Policia Militar do Estado de São Paulo da legislação referente à extinta Fôrça Pública) | 1 | 1970-04-17 to 1970-04-17 |
+| `decreto-lei-1970-sn-72719` | Decreto-Lei de 17/04/1970 (Dispõe sôbre concessão de pensão mensal) | 1 | 1970-04-18 to 1970-04-18 |
+| `decreto-lei-complementar-1970-018` | Decreto-Lei Complementar nº 18, de 17/04/1970 (Organiza o sistema de crédito do Estado, define a competência de seus órgãos e dá providências correlatas) | 1 | 1970-04-18 to 1970-04-18 |
+| `decreto-lei-1970-0223` | Decreto-Lei nº 223, de 17/04/1970 (Restabelece as divisas entre os Municípios de Santo André e Município de Mauá) | 1 | 1970-04-18 to 1970-04-18 |
+| `decreto-lei-1970-0224` | Decreto-Lei nº 224, de 17/04/1970 | 1 | 1970-04-18 to 1970-04-18 |
+| `decreto-lei-1970-0227` | Decreto-Lei nº 227, de 17/04/1970 (Dispõe sobre o Regime de Tempo Integral e dá providências correlatas) | 1 | 1970-04-18 to 1970-04-18 |
+| `decreto-lei-1970-0229` | Decreto-Lei nº 229, de 17/04/1970 (Cria a Junta de Coordenação Financeira do Estado de São Paulo) | 1 | 1970-04-18 to 1970-04-18 |
+| `decreto-lei-1970-0232` | Decreto-Lei nº 232, de 17/04/1970 (Dispõe sobre a criação, como entidade autárquica, da Superintendência de Saneamento Ambiental - SUSAM) | 1 | 2020-10-15 to 2020-10-15 |
+| `decreto-lei-1970-0233` | Decreto-Lei nº 233, de 28/04/1970 (Estabelece normas para a estruturação dos Sistemas de Administração Financeira e Orçamentária da Administração Pública Estadual, Centralizada ou Direta) | 1 | 1970-04-29 to 1970-04-29 |
+| `decreto-lei-1970-sn-72726` | Decreto-Lei de 30/04/1970 (Altera a denominação de cargo do Quadro da Secretaria de Cultura, Esportes e Turismo ) | 1 | 1970-05-01 to 1970-05-01 |
+| `decreto-lei-1970-0237` | Decreto-Lei nº 237, de 30/04/1970 (Transforma o Instituto Oscar Freire em autarquia ) | 1 | 1970-05-01 to 1970-05-01 |
+| `decreto-lei-1970-0238` | Decreto-Lei nº 238, de 30/04/1970 (Dá nova redação ao Artigo 6.° do <a target='_blank' class='anotacao-link' href='/norma/49432'>Decreto-lei n. 232, de 17 de abril de 1970</a> ) | 1 | 1970-05-01 to 1970-05-01 |
+| `decreto-lei-1970-sn-72732` | Decreto-Lei de 06/05/1970 (Dá nova redação ao inciso I do artigo 1.º, do Decreto-lei de 29, publicado a 30 de janeiro de 1970) | 1 | 1970-05-07 to 1970-05-07 |
+| `decreto-lei-1970-sn-72735` | Decreto-Lei de 08/05/1970 (Altera a denominação de cargo que indica ) | 1 | 1970-05-09 to 1970-05-09 |
+| `decreto-lei-1970-0240` | Decreto-Lei nº 240, de 12/05/1970 (Dispõe sobre medidas de apoio à modernização, reorganização e recuperação de empresas contribuintes do ICM ) | 1 | 1970-05-13 to 1970-05-13 |
+| `decreto-lei-1970-0241` | Decreto-Lei nº 241, de 13/05/1970 (Dispõe sobre o provimento de cargos de direção e chefia de hospitais do Estado ) | 1 | 1970-05-14 to 1970-05-14 |
+| `decreto-lei-complementar-1970-020` | Decreto-Lei Complementar nº 20, de 15/05/1970 | 1 | 1970-05-16 to 1970-05-16 |
+| `decreto-lei-1970-sn-72743` | Decreto-Lei de 20/05/1970 (Dispõe sobre criação de cargos no Quadro da Secretaria da Segurança Pública ) | 1 | 1970-05-21 to 1970-05-21 |
+| `decreto-lei-complementar-1970-021` | Decreto-Lei Complementar nº 21, de 20/05/1970 | 1 | 1970-05-21 to 1970-05-21 |
+| `decreto-lei-1970-0243` | Decreto-Lei nº 243, de 20/05/1970 (Dispõe sobre criação da Faculdade de Tecnologia de Sorocaba ) | 1 | 1970-05-21 to 1970-05-21 |
+| `decreto-lei-1970-0245` | Decreto-Lei nº 245, de 20/05/1970 (Cria a Estância Hidromineral de Poá) | 1 | 1970-05-21 to 1970-05-21 |
+| `decreto-lei-complementar-1970-023` | Decreto-Lei Complementar nº 23, de 29/05/1970 (Altera a redação de dispositivos do <a target='_blank' class='anotacao-link' href='/norma/47473'>Decreto-lei Complementar n. 7, de 6 de novembro de 1969</a>.) | 1 | 1970-05-30 to 1970-05-30 |
+| `decreto-lei-1970-0246` | Decreto-Lei nº 246, de 29/05/1970 (Dispõe sobre a criação do Museu do Mobiliário Artístico e Histórico Brasileiro) | 1 | 1970-05-30 to 1970-05-30 |
+| `decreto-lei-1970-0247` | Decreto-Lei nº 247, de 29/05/1970 (Dispõe sobre a criação do Museu da Imagem e do Som do Estado de São Paulo ) | 1 | 1970-05-30 to 1970-05-30 |
+| `decreto-lei-1970-0250` | Decreto-Lei nº 250, de 29/05/1970 (Cria, como entidade autárquica, o Instituto de Energia Atômica (I.E.A.) ) | 1 | 1970-05-30 to 1970-05-30 |
+| `decreto-lei-1970-0252` | Decreto-Lei nº 252, de 29/05/1970 (Cria, na Justiça Militar do Estado, a Segunda Auditoria e dá providências correlatas ) | 1 | 1970-05-30 to 1970-05-30 |
+| `decreto-lei-1970-0255` | Decreto-Lei nº 255, de 29/05/1970 (Autoriza o Poder Executivo a constituir a Companhia de Promoção de Exportações de Manufaturados do Estado de São Paulo (COPEME) ) | 1 | 1970-05-30 to 1970-05-30 |
+| `decreto-lei-1970-0256` | Decreto-Lei nº 256, de 29/05/1970 (Dispõe sobre a criação, como entidade autárquica, da Superintendência de Comunidade de Trabalho) | 1 | 1970-05-30 to 1970-05-30 |
+| `decreto-lei-1970-0257` | Decreto-Lei nº 257, de 29/05/1970 (Dispõe sôbre a finalidade e organização básica de Instituto de Assistência Médica ao Servidor Público Estadual - IAMSPE ) | 1 | 2020-10-15 to 2020-10-15 |
+| `decreto-lei-1970-0258` | Decreto-Lei nº 258, de 29/05/1970 (Dispõe sobre a criação, como entidade autárquica, do Fomento de Urbanização e Melhoria das Estâncias - "FUMEST" ) | 1 | 1970-05-30 to 1970-05-30 |
+| `decreto-lei-1970-0259` | Decreto-Lei nº 259, de 29/05/1970 (Institui, como Estância Hidromineral, o Município de Lindóia) | 1 | 1970-05-30 to 1970-05-30 |
+| `decreto-lei-1970-0260` | Decreto-Lei nº 260, de 29/05/1970 (Dispõe sôbre a inatividade dos componentes da Polícia Militar do Estado de São Paulo) | 1 | 2026-01-06 to 2026-01-06 |
 
-The build made 21766 commits:
+The build made 21909 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 21766 | first version of an act |
+| 21909 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 2 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
-- 2662 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 21766 laws in the record.
-- 42858 tags.
+- 2 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
+- 2759 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 21909 laws in the record.
+- 43138 tags.
 
 ## Dates
 
@@ -22684,18 +22831,30 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6e442ff194dcb21933e07ac443a1715caf0695a11160a961935d1b0e0070b88a` (80576002 bytes).
+- Corpus: sha256 `8c510b72ef28953c57614fffd85682081e1cdca6a9131ffb00e079a9cc7f360e` (83158361 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-21766 versions of 21766 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
 - An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
 - The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
 - One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
@@ -24458,6 +24617,9 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
