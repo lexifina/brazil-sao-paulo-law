@@ -462,6 +462,12 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -22821,6 +22827,306 @@ Nuporanga, o imóvel que especifica.) | 1 | 2009-09-25 to 2009-09-25 |
 | `decreto-lei-1970-0258` | Decreto-Lei nº 258, de 29/05/1970 (Dispõe sobre a criação, como entidade autárquica, do Fomento de Urbanização e Melhoria das Estâncias - "FUMEST" ) | 1 | 1970-05-30 to 1970-05-30 |
 | `decreto-lei-1970-0259` | Decreto-Lei nº 259, de 29/05/1970 (Institui, como Estância Hidromineral, o Município de Lindóia) | 1 | 1970-05-30 to 1970-05-30 |
 | `decreto-lei-1970-0260` | Decreto-Lei nº 260, de 29/05/1970 (Dispõe sôbre a inatividade dos componentes da Polícia Militar do Estado de São Paulo) | 1 | 2026-01-06 to 2026-01-06 |
+| `decreto-2025-69941` | Decreto nº 69.941, de 10/10/2025 (Autoriza a Fazenda do Estado a receber, por doação, sem encargos, do Município de Marília, o imóvel que especifica.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69942` | Decreto nº 69.942, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69943` | Decreto nº 69.943, de 10/10/2025 (Autoriza a Fazenda do Estado a receber, por doação, sem encargos, do Município de Bertioga, o imóvel que especifica.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69944` | Decreto nº 69.944, de 10/10/2025 (Autoriza a outorga de uso, ao Município de Lucianópolis, do imóvel que especifica e dá providências correlatas.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69945` | Decreto nº 69.945, de 10/10/2025 (Autoriza a outorga de uso do imóvel que especifica ao Município de Quatá e dá providências correlatas.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69946` | Decreto nº 69.946, de 10/10/2025 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Jahu, os imóveis que especifica.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69947` | Decreto nº 69.947, de 10/10/2025 (Revoga o <a target='_blank' class='anotacao-link' href='/norma/211556'>Decreto n° 69.901, de 22 de setembro de 2025</a>.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69948` | Decreto nº 69.948, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69949` | Decreto nº 69.949, de 10/10/2025 (Transfere para a Secretaria da Cultura, Economia e Indústria Criativas a administração do imóvel que especifica, localizado no Município de São Paulo) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69950` | Decreto nº 69.950, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69951` | Decreto nº 69.951, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69952` | Decreto nº 69.952, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69953` | Decreto nº 69.953, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69954` | Decreto nº 69.954, de 10/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal em Diversos Órgãos da Administração Publica, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69955` | Decreto nº 69.955, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69956` | Decreto nº 69.956, de 10/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal em Diversos Órgãos da Administração Publica, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69957` | Decreto nº 69.957, de 10/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69958` | Decreto nº 69.958, de 10/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69959` | Decreto nº 69.959, de 10/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69960` | Decreto nº 69.960, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69961` | Decreto nº 69.961, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69962` | Decreto nº 69.962, de 10/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Universidade de São Paulo - USP, visando ao atendimento de Despesas Correntes e de Capital.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69963` | Decreto nº 69.963, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69964` | Decreto nº 69.964, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69965` | Decreto nº 69.965, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69966` | Decreto nº 69.966, de 10/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na São Paulo Previdência - SPPREV, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69967` | Decreto nº 69.967, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69968` | Decreto nº 69.968, de 10/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Parcerias em Investimentos, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69969` | Decreto nº 69.969, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69970` | Decreto nº 69.970, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69971` | Decreto nº 69.971, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69972` | Decreto nº 69.972, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69973` | Decreto nº 69.973, de 10/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal no Ministério Público, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69974` | Decreto nº 69.974, de 10/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Justiça e Cidadania, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69975` | Decreto nº 69.975, de 10/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Fazenda e Planejamento, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69976` | Decreto nº 69.976, de 10/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Segurança Pública, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69977` | Decreto nº 69.977, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69978` | Decreto nº 69.978, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69979` | Decreto nº 69.979, de 10/10/2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `decreto-2025-69980` | Decreto nº 69.980, de 14/10/2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `decreto-2025-69981` | Decreto nº 69.981, de 18/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69982` | Decreto nº 69.982, de 18/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69983` | Decreto nº 69.983, de 18/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69984` | Decreto nº 69.984, de 18/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Administração Penitenciária, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69985` | Decreto nº 69.985, de 18/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Agricultura e Abastecimento, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69986` | Decreto nº 69.986, de 18/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69987` | Decreto nº 69.987, de 18/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69988` | Decreto nº 69.988, de 18/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69989` | Decreto nº 69.989, de 18/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69990` | Decreto nº 69.990, de 18/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes e de Capital.) | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69991` | Decreto nº 69.991, de 18/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Fazenda e Planejamento, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69992` | Decreto nº 69.992, de 18/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69993` | Decreto nº 69.993, de 18/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69994` | Decreto nº 69.994, de 18/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69995` | Decreto nº 69.995, de 18/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69996` | Decreto nº 69.996, de 18/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69997` | Decreto nº 69.997, de 18/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Segurança Pública, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69998` | Decreto nº 69.998, de 18/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria dos Transportes Metropolitanos, visando ao atendimento de Despesas Correntes) | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-69999` | Decreto nº 69.999, de 18/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-70000` | Decreto nº 70.000, de 18/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-70001` | Decreto nº 70.001, de 18/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal no Tribunal de Contas do Estado, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-70002` | Decreto nº 70.002, de 20/10/2025 | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-70003` | Decreto nº 70.003, de 20/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Parcerias em Investimentos, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-70004` | Decreto nº 70.004, de 20/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Parcerias em Investimentos, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-21 to 2025-10-21 |
+| `decreto-2025-70005` | Decreto nº 70.005, de 21/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Justiça e Cidadania, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70006` | Decreto nº 70.006, de 21/10/2025 | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70007` | Decreto nº 70.007, de 21/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal no Ministério Público, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70008` | Decreto nº 70.008, de 21/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria dos Transportes Metropolitanos, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70009` | Decreto nº 70.009, de 21/10/2025 | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70010` | Decreto nº 70.010, de 21/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Gestão e Governo Digital, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70011` | Decreto nº 70.011, de 21/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70012` | Decreto nº 70.012, de 21/10/2025 (Autoriza a outorga de uso do imóvel que especifica ao Município de Birigui e dá providências correlatas.) | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70013` | Decreto nº 70.013, de 21/10/2025 | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70014` | Decreto nº 70.014, de 21/10/2025 (Autoriza a outorga de uso, à Seleção Paulista, do imóvel que especifica, e dá providências correlatas.) | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70015` | Decreto nº 70.015, de 21/10/2025 | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70016` | Decreto nº 70.016, de 21/10/2025 | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70017` | Decreto nº 70.017, de 21/10/2025 (Autoriza a outorga de uso do imóvel que especifica ao Município de São Carlos e dá providências correlatas.) | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70018` | Decreto nº 70.018, de 21/10/2025 | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70019` | Decreto nº 70.019, de 21/10/2025 (Autoriza a outorga de uso do imóvel que especifica ao Município de Bananal e dá providências correlatas.) | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70020` | Decreto nº 70.020, de 21/10/2025 | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70021` | Decreto nº 70.021, de 21/10/2025 | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70022` | Decreto nº 70.022, de 21/10/2025 | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70023` | Decreto nº 70.023, de 21/10/2025 (Autoriza a outorga de uso do imóvel que especifica ao Município de Taubaté e dá providências correlatas.) | 1 | 2025-10-22 to 2025-10-22 |
+| `decreto-2025-70024` | Decreto nº 70.024, de 28/10/2025 | 1 | 2025-10-29 to 2025-10-29 |
+| `decreto-2025-70025` | Decreto nº 70.025, de 28/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-29 to 2025-10-29 |
+| `decreto-2025-70026` | Decreto nº 70.026, de 28/10/2025 | 1 | 2025-10-29 to 2025-10-29 |
+| `decreto-2025-70027` | Decreto nº 70.027, de 28/10/2025 | 1 | 2025-10-29 to 2025-10-29 |
+| `decreto-2025-70028` | Decreto nº 70.028, de 28/10/2025 | 1 | 2025-10-29 to 2025-10-29 |
+| `decreto-2025-70029` | Decreto nº 70.029, de 28/10/2025 | 1 | 2025-10-29 to 2025-10-29 |
+| `decreto-2025-70030` | Decreto nº 70.030, de 28/10/2025 | 1 | 2025-10-29 to 2025-10-29 |
+| `decreto-2025-70031` | Decreto nº 70.031, de 28/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Universidade de São Paulo - USP, visando ao atendimento de Despesas Correntes e de Capital.) | 1 | 2025-10-29 to 2025-10-29 |
+| `decreto-2025-70032` | Decreto nº 70.032, de 28/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-29 to 2025-10-29 |
+| `decreto-2025-70033` | Decreto nº 70.033, de 28/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal no Tribunal de Justiça, visando ao atendimento de Despesas com Pessoal e Encargos Sociais.) | 1 | 2025-10-29 to 2025-10-29 |
+| `decreto-2025-70034` | Decreto nº 70.034, de 28/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Universidade de São Paulo-USP, visando ao atendimento de Despesas de Capital.) | 1 | 2025-10-29 to 2025-10-29 |
+| `decreto-2025-70035` | Decreto nº 70.035, de 30/10/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas Correntes.) | 1 | 2025-10-31 to 2025-10-31 |
+| `decreto-2025-70036` | Decreto nº 70.036, de 30/10/2025 | 1 | 2025-10-31 to 2025-10-31 |
+| `decreto-2025-70037` | Decreto nº 70.037, de 30/10/2025 (Dispõe sobre a outorga da Medalha de Honra e Mérito da Gestão Pública em Saúde "Walter Leser".) | 1 | 2025-10-31 to 2025-10-31 |
+| `decreto-2025-70038` | Decreto nº 70.038, de 30/10/2025 (Dispõe sobre a outorga da "Cruz do Mérito Policial".) | 1 | 2025-10-31 to 2025-10-31 |
+| `decreto-2025-70039` | Decreto nº 70.039, de 30/10/2025 | 1 | 2025-10-31 to 2025-10-31 |
+| `decreto-2025-70040` | Decreto nº 70.040, de 30/10/2025 | 1 | 2025-10-31 to 2025-10-31 |
+| `decreto-2025-70041` | Decreto nº 70.041, de 30/10/2025 (Institui a Medalha Comemorativa do Cinquentenário do Comando de Policiamento do Interior Seis e dá providências correlatas.) | 1 | 2025-10-31 to 2025-10-31 |
+| `decreto-2025-70042` | Decreto nº 70.042, de 30/10/2025 | 1 | 2025-10-31 to 2025-10-31 |
+| `decreto-2025-70043` | Decreto nº 70.043, de 30/10/2025 | 1 | 2025-10-31 to 2025-10-31 |
+| `decreto-2025-70044` | Decreto nº 70.044, de 31/10/2025 | 1 | 2025-11-03 to 2025-11-03 |
+| `decreto-2025-70045` | Decreto nº 70.045, de 31/10/2025 | 1 | 2025-11-03 to 2025-11-03 |
+| `decreto-2025-70046` | Decreto nº 70.046, de 04/11/2025 | 1 | 2025-11-05 to 2025-11-05 |
+| `decreto-2025-70047` | Decreto nº 70.047, de 05/11/2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70048` | Decreto nº 70.048, de 05/11/2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70049` | Decreto nº 70.049, de 05/11/2025 (Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Casa Civil, da Governadoria do Estado.) | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70050` | Decreto nº 70.050, de 05/11/2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70051` | Decreto nº 70.051, de 05/11/2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70052` | Decreto nº 70.052, de 05/11/2025 (Autoriza a outorga de uso do imóvel que especifica ao Município de São Manuel e dá providências correlatas.) | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70053` | Decreto nº 70.053, de 05/11/2025 (Autoriza a outorga de uso do imóvel que especifica ao Município de Caiabu e dá providências correlatas.) | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70054` | Decreto nº 70.054, de 05/11/2025 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Taguaí, o imóvel que especifica.) | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70055` | Decreto nº 70.055, de 05/11/2025 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Presidente Bernardes, o imóvel que especifica.) | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70056` | Decreto nº 70.056, de 05/11/2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70057` | Decreto nº 70.057, de 05/11/2025 (Concede a Medalha dos Bandeirantes às personalidades que especifica.) | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70058` | Decreto nº 70.058, de 05/11/2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70059` | Decreto nº 70.059, de 05/11/2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70060` | Decreto nº 70.060, de 05/11/2025 (Revoga o <a target='_blank' class='anotacao-link' href='/norma/204620'>Decreto n° 67.004, de 28 de julho de 2022</a>.) | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70061` | Decreto nº 70.061, de 05/11/2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `decreto-2025-70062` | Decreto nº 70.062, de 07/11/2025 | 1 | 2025-11-07 to 2025-11-07 |
+| `decreto-2025-70063` | Decreto nº 70.063, de 07/11/2025 | 1 | 2025-11-07 to 2025-11-07 |
+| `decreto-2025-70064` | Decreto nº 70.064, de 07/11/2025 | 1 | 2025-11-10 to 2025-11-10 |
+| `decreto-2025-70065` | Decreto nº 70.065, de 07/11/2025 (Dispõe sobre a classificação institucional da Secretaria de Comunicação nos Sistemas de Administração Financeira e Orçamentária do Estado.) | 1 | 2025-11-10 to 2025-11-10 |
+| `decreto-2025-70066` | Decreto nº 70.066, de 07/11/2025 | 1 | 2025-11-10 to 2025-11-10 |
+| `decreto-2025-70067` | Decreto nº 70.067, de 07/11/2025 (Autoriza a outorga de uso de parte do imóvel que especifica ao Município de Franco da Rocha e dá providências correlatas.) | 1 | 2025-11-10 to 2025-11-10 |
+| `decreto-2025-70068` | Decreto nº 70.068, de 07/11/2025 | 1 | 2025-11-10 to 2025-11-10 |
+| `decreto-2025-70069` | Decreto nº 70.069, de 07/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas Correntes e de Capital.) | 1 | 2025-11-10 to 2025-11-10 |
+| `decreto-2025-70070` | Decreto nº 70.070, de 07/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas de Capital.) | 1 | 2025-11-10 to 2025-11-10 |
+| `decreto-2025-70071` | Decreto nº 70.071, de 07/11/2025 | 1 | 2025-11-10 to 2025-11-10 |
+| `decreto-2025-70072` | Decreto nº 70.072, de 07/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes e de Capital.) | 1 | 2025-11-10 to 2025-11-10 |
+| `decreto-2025-70073` | Decreto nº 70.073, de 07/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas de Capital.) | 1 | 2025-11-10 to 2025-11-10 |
+| `decreto-2025-70074` | Decreto nº 70.074, de 07/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Segurança Pública, visando ao atendimento de Despesas de Capital.) | 1 | 2025-11-10 to 2025-11-10 |
+| `decreto-2025-70075` | Decreto nº 70.075, de 11/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2025-11-11 to 2025-11-11 |
+| `decreto-2025-70076` | Decreto nº 70.076, de 11/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2025-11-11 to 2025-11-11 |
+| `decreto-2025-70077` | Decreto nº 70.077, de 11/11/2025 (Autoriza a outorga de uso de parte do imóvel que especifica ao Município de Bragança Paulista e dá providências correlatas.) | 1 | 2025-11-12 to 2025-11-12 |
+| `decreto-2025-70078` | Decreto nº 70.078, de 11/11/2025 | 1 | 2025-11-12 to 2025-11-12 |
+| `decreto-2025-70079` | Decreto nº 70.079, de 11/11/2025 | 1 | 2025-11-12 to 2025-11-12 |
+| `decreto-2025-70080` | Decreto nº 70.080, de 11/11/2025 | 1 | 2025-11-12 to 2025-11-12 |
+| `decreto-2025-70081` | Decreto nº 70.081, de 11/11/2025 | 1 | 2025-11-12 to 2025-11-12 |
+| `decreto-2025-70082` | Decreto nº 70.082, de 11/11/2025 | 1 | 2025-11-12 to 2025-11-12 |
+| `decreto-2025-70083` | Decreto nº 70.083, de 12/11/2025 (Homologa sumariamente, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Assis, que declarou Situação de Emergência em áreas do Município.) | 1 | 2025-11-13 to 2025-11-13 |
+| `decreto-2025-70084` | Decreto nº 70.084, de 12/11/2025 | 1 | 2025-11-13 to 2025-11-13 |
+| `decreto-2025-70085` | Decreto nº 70.085, de 12/11/2025 (Institui o Comitê Intersetorial de Acompanhamento e Monitoramento da Política Estadual de Atenção Específica para a População em Situação de Rua.) | 1 | 2025-11-13 to 2025-11-13 |
+| `decreto-2025-70086` | Decreto nº 70.086, de 12/11/2025 | 1 | 2025-11-13 to 2025-11-13 |
+| `decreto-2025-70087` | Decreto nº 70.087, de 12/11/2025 | 1 | 2025-11-13 to 2025-11-13 |
+| `decreto-2025-70088` | Decreto nº 70.088, de 12/11/2025 | 1 | 2025-11-13 to 2025-11-13 |
+| `decreto-2025-70089` | Decreto nº 70.089, de 12/11/2025 (Dispõe sobre a criação da Consultoria Jurídica da Polícia Civil.) | 1 | 2025-11-13 to 2025-11-13 |
+| `decreto-2025-70090` | Decreto nº 70.090, de 12/11/2025 | 1 | 2025-11-13 to 2025-11-13 |
+| `decreto-2025-70091` | Decreto nº 70.091, de 12/11/2025 | 1 | 2025-11-13 to 2025-11-13 |
+| `decreto-2025-70092` | Decreto nº 70.092, de 12/11/2025 (Acrescenta dispositivo ao <a target='_blank' class='anotacao-link' href='/norma/183081'>Decreto nº 62.817, de 4 de setembro de 2017</a>.) | 1 | 2025-11-13 to 2025-11-13 |
+| `decreto-2025-70093` | Decreto nº 70.093, de 14/11/2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70094` | Decreto nº 70.094, de 14/11/2025 (Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas) | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70095` | Decreto nº 70.095, de 14/11/2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70096` | Decreto nº 70.096, de 14/11/2025 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Álvares Machado, o imóvel que especifica) | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70097` | Decreto nº 70.097, de 14/11/2025 (Autoriza a outorga de uso de parte do imóvel que especifica ao Município de Mira Estrela e dá providências correlatas.) | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70098` | Decreto nº 70.098, de 14/11/2025 (Autoriza a outorga de uso de parte do imóvel que especifica ao Município de Guaíra e dá providências correlatas.) | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70099` | Decreto nº 70.099, de 14/11/2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70100` | Decreto nº 70.100, de 14/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Esportes, visando ao atendimento de Despesas de Capital.) | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70101` | Decreto nº 70.101, de 14/11/2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70102` | Decreto nº 70.102, de 14/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Fazenda e Planejamento, visando ao atendimento de Despesas Correntes.) | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70103` | Decreto nº 70.103, de 14/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Justiça e Cidadania, visando ao atendimento de Despesas Correntes.) | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70104` | Decreto nº 70.104, de 14/11/2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70105` | Decreto nº 70.105, de 14/11/2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70106` | Decreto nº 70.106, de 14/11/2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70107` | Decreto nº 70.107, de 14/11/2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70108` | Decreto nº 70.108, de 14/11/2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70109` | Decreto nº 70.109, de 14/11/2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70110` | Decreto nº 70.110, de 14/11/2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70111` | Decreto nº 70.111, de 14/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Segurança Pública, visando ao atendimento de Despesas de Capital.) | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70112` | Decreto nº 70.112, de 14/11/2025 (Transfere os cargos e as funções-atividades que especifica e dá providências correlatas.) | 1 | 2025-11-17 to 2025-11-17 |
+| `decreto-2025-70113` | Decreto nº 70.113, de 18/11/2025 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Barretos, que declarou Situação de Emergência em áreas do Município.) | 1 | 2025-11-19 to 2025-11-19 |
+| `decreto-2025-70114` | Decreto nº 70.114, de 18/11/2025 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Regente Feijó, que declarou Situação de Emergência em áreas do Município.) | 1 | 2025-11-19 to 2025-11-19 |
+| `decreto-2025-70115` | Decreto nº 70.115, de 18/11/2025 | 1 | 2025-11-19 to 2025-11-19 |
+| `decreto-2025-70116` | Decreto nº 70.116, de 19/11/2025 (Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas.) | 1 | 2025-11-24 to 2025-11-24 |
+| `decreto-2025-70117` | Decreto nº 70.117, de 19/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Agricultura e Abastecimento, visando ao atendimento de Despesas Correntes.) | 1 | 2025-11-24 to 2025-11-24 |
+| `decreto-2025-70118` | Decreto nº 70.118, de 19/11/2025 | 1 | 2025-11-24 to 2025-11-24 |
+| `decreto-2025-70119` | Decreto nº 70.119, de 19/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Ciência, Tecnologia e Inovação, visando ao atendimento de Despesas Correntes.) | 1 | 2025-11-24 to 2025-11-24 |
+| `decreto-2025-70120` | Decreto nº 70.120, de 19/11/2025 | 1 | 2025-11-24 to 2025-11-24 |
+| `decreto-2025-70121` | Decreto nº 70.121, de 19/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Gestão e Governo Digital, visando ao atendimento de Despesas Correntes.) | 1 | 2025-11-24 to 2025-11-24 |
+| `decreto-2025-70122` | Decreto nº 70.122, de 19/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Controladoria Geral do Estado, visando ao atendimento de Despesas de Capital.) | 1 | 2025-11-24 to 2025-11-24 |
+| `decreto-2025-70123` | Decreto nº 70.123, de 19/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas Correntes.) | 1 | 2025-11-24 to 2025-11-24 |
+| `decreto-2025-70124` | Decreto nº 70.124, de 19/11/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Procuradoria Geral do Estado, visando ao atendimento de Despesas Correntes.) | 1 | 2025-11-24 to 2025-11-24 |
+| `decreto-2025-70125` | Decreto nº 70.125, de 24/11/2025 | 1 | 2025-11-25 to 2025-11-25 |
+| `decreto-2025-70126` | Decreto nº 70.126, de 24/11/2025 | 1 | 2025-11-25 to 2025-11-25 |
+| `decreto-2025-70127` | Decreto nº 70.127, de 24/11/2025 | 1 | 2025-11-25 to 2025-11-25 |
+| `decreto-2025-70128` | Decreto nº 70.128, de 24/11/2025 | 1 | 2025-11-25 to 2025-11-25 |
+| `decreto-2025-70129` | Decreto nº 70.129, de 25/11/2025 (Autoriza a Fazenda do Estado a receber, em comodato, por prazo determinado, parte do imóvel que especifica, e dá providências correlatas.) | 1 | 2025-11-26 to 2025-11-26 |
+| `decreto-2025-70130` | Decreto nº 70.130, de 26/11/2025 (Homologa, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Paraibuna, que declarou Situação de Emergência em áreas do Município.) | 1 | 2025-11-27 to 2025-11-27 |
+| `decreto-2025-70131` | Decreto nº 70.131, de 29/11/2025 | 1 | 2025-11-29 to 2025-11-29 |
+| `decreto-2025-70132` | Decreto nº 70.132, de 29/11/2025 | 1 | 2025-11-29 to 2025-11-29 |
+| `decreto-2025-70133` | Decreto nº 70.133, de 29/11/2025 | 1 | 2025-11-29 to 2025-11-29 |
+| `decreto-2025-70134` | Decreto nº 70.134, de 29/11/2025 | 1 | 2025-11-29 to 2025-11-29 |
+| `decreto-2025-70135` | Decreto nº 70.135, de 29/11/2025 | 1 | 2025-11-29 to 2025-11-29 |
+| `decreto-2025-70136` | Decreto nº 70.136, de 01/12/2025 (Institui a Medalha "Cinquentenário do Comando de Policiamento do Interior Três - Coronel PM Paulo Monte Serrat Filho" e dá providências correlatas.) | 1 | 2025-12-02 to 2025-12-02 |
+| `decreto-2025-70137` | Decreto nº 70.137, de 01/12/2025 (Institui a Medalha Mérito Científico D. Pedro II do Instituto Agronômico (IAC) e dá providências correlatas.) | 1 | 2025-12-02 to 2025-12-02 |
+| `decreto-2025-70138` | Decreto nº 70.138, de 01/12/2025 | 1 | 2025-12-02 to 2025-12-02 |
+| `decreto-2025-70139` | Decreto nº 70.139, de 01/12/2025 | 1 | 2025-12-02 to 2025-12-02 |
+| `decreto-2025-70140` | Decreto nº 70.140, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70141` | Decreto nº 70.141, de 04/12/2025 (Institui a Medalha "Cinquentenário do Comando de Policiamento do Interior Um" e dá providências correlatas.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70142` | Decreto nº 70.142, de 04/12/2025 (Institui a Medalha do Cinquentenário do Primeiro Batalhão de Polícia Rodoviária - Cel PM José de Pina Figueiredo e dá providências correlatas.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70143` | Decreto nº 70.143, de 04/12/2025 (Institui a Medalha "Cinquentenário do Décimo Quinto Batalhão de Polícia Militar do Interior - Coronel Antônio Batista da Luz" e dá providências correlatas.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70144` | Decreto nº 70.144, de 04/12/2025 (Institui a Medalha do Cinquentenário do Comando de Policiamento do Interior Dez e dá providências correlatas) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70145` | Decreto nº 70.145, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70146` | Decreto nº 70.146, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70147` | Decreto nº 70.147, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas Correntes e de Capital.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70148` | Decreto nº 70.148, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas de Capital.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70149` | Decreto nº 70.149, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas de Capital.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70150` | Decreto nº 70.150, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Agricultura e Abastecimento, visando ao atendimento de Despesas de Capital.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70151` | Decreto nº 70.151, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Agricultura e Abastecimento, visando ao atendimento de Despesas de Capital.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70152` | Decreto nº 70.152, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Administração Penitenciária, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70153` | Decreto nº 70.153, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70154` | Decreto nº 70.154, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70155` | Decreto nº 70.155, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70156` | Decreto nº 70.156, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70157` | Decreto nº 70.157, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70158` | Decreto nº 70.158, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes e de Capital.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70159` | Decreto nº 70.159, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70160` | Decreto nº 70.160, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70161` | Decreto nº 70.161, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Fazenda e Planejamento, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70162` | Decreto nº 70.162, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Fazenda e Planejamento, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70163` | Decreto nº 70.163, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70164` | Decreto nº 70.164, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70165` | Decreto nº 70.165, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal no Departamento de Estradas de Rodagem - DER, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70166` | Decreto nº 70.166, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas Correntes) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70167` | Decreto nº 70.167, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70168` | Decreto nº 70.168, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Universidade de São Paulo-USP, visando ao atendimento de Despesas Correntes e de Capital.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70169` | Decreto nº 70.169, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70170` | Decreto nº 70.170, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Segurança Pública, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70171` | Decreto nº 70.171, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Segurança Pública, visando ao atendimento de Despesas de Capital.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70172` | Decreto nº 70.172, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70173` | Decreto nº 70.173, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Turismo e Viagens, visando ao atendimento de Despesas de Capital.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70174` | Decreto nº 70.174, de 04/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal no Ministério Público, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70175` | Decreto nº 70.175, de 04/12/2025 | 1 | 2025-12-05 to 2025-12-05 |
+| `decreto-2025-70176` | Decreto nº 70.176, de 08/12/2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70177` | Decreto nº 70.177, de 08/12/2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70178` | Decreto nº 70.178, de 08/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Gestão e Governo Digital, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70179` | Decreto nº 70.179, de 08/12/2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70180` | Decreto nº 70.180, de 08/12/2025 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Segurança Pública, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70181` | Decreto nº 70.181, de 08/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal no Departamento de Estradas de Rodagem - DER, visando ao atendimento de Despesas de Capital.) | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70182` | Decreto nº 70.182, de 08/12/2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70183` | Decreto nº 70.183, de 08/12/2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70184` | Decreto nº 70.184, de 08/12/2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70185` | Decreto nº 70.185, de 08/12/2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70186` | Decreto nº 70.186, de 08/12/2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70187` | Decreto nº 70.187, de 08/12/2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70188` | Decreto nº 70.188, de 08/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Universidade Estadual de Campinas-UNICAMP, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70189` | Decreto nº 70.189, de 08/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Universidade de São Paulo-USP, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70190` | Decreto nº 70.190, de 08/12/2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70191` | Decreto nº 70.191, de 08/12/2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70192` | Decreto nº 70.192, de 08/12/2025 | 1 | 2025-12-09 to 2025-12-09 |
+| `decreto-2025-70193` | Decreto nº 70.193, de 10/12/2025 | 1 | 2025-12-11 to 2025-12-11 |
+| `decreto-2025-70194` | Decreto nº 70.194, de 10/12/2025 (Ratifica convênios celebrados nos termos da Lei Complementar federal n° 24, de 7 de janeiro de 1975. ) | 1 | 2025-12-11 to 2025-12-11 |
+| `decreto-2025-70195` | Decreto nº 70.195, de 10/12/2025 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-11 to 2025-12-11 |
+| `decreto-2025-70196` | Decreto nº 70.196, de 10/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Justiça e Cidadania, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-11 to 2025-12-11 |
+| `decreto-2025-70197` | Decreto nº 70.197, de 10/12/2025 | 1 | 2025-12-11 to 2025-12-11 |
+| `decreto-2025-70198` | Decreto nº 70.198, de 10/12/2025 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Assembleia Legislativa, visando ao atendimento de Despesas de Capital.) | 1 | 2025-12-11 to 2025-12-11 |
+| `decreto-2025-70199` | Decreto nº 70.199, de 12/12/2025 (Dispõe sobre a admissão na Ordem do Ipiranga.) | 1 | 2025-12-12 to 2025-12-12 |
+| `decreto-2025-70200` | Decreto nº 70.200, de 12/12/2025 (Dispõe sobre a concessão da Medalha dos Bandeirantes) | 1 | 2025-12-12 to 2025-12-12 |
+| `decreto-2025-70201` | Decreto nº 70.201, de 12/12/2025 (Institui a Medalha do Cinquentenário do Comando de Policiamento de Área Metropolitana Cinco e dá providências correlatas.) | 1 | 2025-12-12 to 2025-12-12 |
+| `decreto-2025-70202` | Decreto nº 70.202, de 12/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes) | 1 | 2025-12-15 to 2025-12-15 |
+| `decreto-2025-70203` | Decreto nº 70.203, de 12/12/2025 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-15 to 2025-12-15 |
+| `decreto-2025-70204` | Decreto nº 70.204, de 12/12/2025 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Administração Penitenciária, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-15 to 2025-12-15 |
+| `decreto-2025-70205` | Decreto nº 70.205, de 12/12/2025 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-15 to 2025-12-15 |
+| `decreto-2025-70206` | Decreto nº 70.206, de 12/12/2025 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria dos Transportes Metropolitanos, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-15 to 2025-12-15 |
+| `decreto-2025-70207` | Decreto nº 70.207, de 15/12/2025 | 1 | 2025-12-16 to 2025-12-16 |
+| `decreto-2025-70208` | Decreto nº 70.208, de 15/12/2025 | 1 | 2025-12-16 to 2025-12-16 |
+| `decreto-2025-70209` | Decreto nº 70.209, de 15/12/2025 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas de Capital.) | 1 | 2025-12-16 to 2025-12-16 |
+| `decreto-2025-70210` | Decreto nº 70.210, de 15/12/2025 (Dispõe sobre a abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-16 to 2025-12-16 |
+| `decreto-2025-70211` | Decreto nº 70.211, de 16/12/2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `decreto-2025-70212` | Decreto nº 70.212, de 16/12/2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `decreto-2025-70213` | Decreto nº 70.213, de 16/12/2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `decreto-2025-70214` | Decreto nº 70.214, de 16/12/2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `decreto-2025-70215` | Decreto nº 70.215, de 16/12/2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `decreto-2025-70216` | Decreto nº 70.216, de 16/12/2025 (Autoriza a outorga de uso de parte do imóvel que especifica ao Município de Itaju e dá providências correlatas.) | 1 | 2025-12-17 to 2025-12-17 |
+| `decreto-2025-70217` | Decreto nº 70.217, de 16/12/2025 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de São Paulo, os imóveis que especifica.) | 1 | 2025-12-17 to 2025-12-17 |
+| `decreto-2025-70218` | Decreto nº 70.218, de 17/12/2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `decreto-2025-70219` | Decreto nº 70.219, de 17/12/2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `decreto-2025-70220` | Decreto nº 70.220, de 17/12/2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `decreto-2025-70221` | Decreto nº 70.221, de 17/12/2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `decreto-2025-70222` | Decreto nº 70.222, de 17/12/2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `decreto-2025-70223` | Decreto nº 70.223, de 17/12/2025 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-18 to 2025-12-18 |
+| `decreto-2025-70224` | Decreto nº 70.224, de 17/12/2025 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2025-12-18 to 2025-12-18 |
+| `decreto-2025-70225` | Decreto nº 70.225, de 19/12/2025 (Reorganiza e altera a denominação do Restaurante Popular para Restaurante Bom Prato, é dá providências correlatas.) | 1 | 2025-12-19 to 2025-12-19 |
+| `decreto-2025-70226` | Decreto nº 70.226, de 19/12/2025 | 1 | 2025-12-19 to 2025-12-19 |
+| `decreto-2025-70227` | Decreto nº 70.227, de 19/12/2025 (Homologa, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Barrinha, que declarou Situação de Emergência em áreas do Município.) | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70228` | Decreto nº 70.228, de 19/12/2025 (Homologa, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Iepê, que declarou Situação de Emergência em áreas do Município.) | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70229` | Decreto nº 70.229, de 19/12/2025 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Martinópolis, que declarou Situação de Emergência em áreas do Município.) | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70230` | Decreto nº 70.230, de 19/12/2025 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Pacaembu, que declarou Situação de Emergência em áreas do Município.) | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70231` | Decreto nº 70.231, de 19/12/2025 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Panorama, que declarou Situação de Emergência em áreas do Município.) | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70232` | Decreto nº 70.232, de 19/12/2025 (Homologa, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Piquerobi, que declarou Situação de Emergência em áreas do Município.) | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70233` | Decreto nº 70.233, de 19/12/2025 | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70234` | Decreto nº 70.234, de 19/12/2025 | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70235` | Decreto nº 70.235, de 19/12/2025 | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70236` | Decreto nº 70.236, de 19/12/2025 | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70237` | Decreto nº 70.237, de 19/12/2025 | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70238` | Decreto nº 70.238, de 19/12/2025 | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70239` | Decreto nº 70.239, de 19/12/2025 (Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas) | 1 | 2025-12-22 to 2025-12-22 |
+| `decreto-2025-70240` | Decreto nº 70.240, de 19/12/2025 | 1 | 2025-12-22 to 2025-12-22 |
 | `decreto-2025-70241` | Decreto nº 70.241, de 19/12/2025 (Transfere o cargo que especifica e dá providências correlatas.) | 1 | 2025-12-22 to 2025-12-22 |
 | `decreto-2025-70242` | Decreto nº 70.242, de 19/12/2025 | 1 | 2025-12-22 to 2025-12-22 |
 | `decreto-2025-70243` | Decreto nº 70.243, de 19/12/2025 (Autoriza a outorga de uso de parte do imóvel que especifica ao Município de Franco da Rocha e dá providências correlatas.) | 1 | 2025-12-22 to 2025-12-22 |
@@ -23540,19 +23846,19 @@ Nuporanga, o imóvel que especifica.) | 1 | 2009-09-25 to 2009-09-25 |
 | `decreto-2026-70956` | Decreto nº 70.956, de 03/11/2026 (Altera a classificação institucional da Secretaria da Fazenda e Planejamento nos Sistemas de Administração Financeira e Orçamentária do Estado.) | 1 | 2026-11-04 to 2026-11-04 |
 | `decreto-2026-70957` | Decreto nº 70.957, de 04/11/2026 | 1 | 2026-11-05 to 2026-11-05 |
 
-The build made 22625 commits:
+The build made 22925 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 22625 | first version of an act |
+| 22925 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 2 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 2759 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 22625 laws in the record.
-- 44570 tags.
+- 22925 laws in the record.
+- 45170 tags.
 
 ## Dates
 
@@ -23564,7 +23870,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `deac1d135abe029a14fc0eda7490bb68f179008c6301941b64b9b7700c752932` (87824129 bytes).
+- Corpus: sha256 `49c082e248db66c66914c61156c9c9e470ac262e6a2b8025d11a525b329f97b4` (89672794 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -25400,6 +25706,30 @@ No second build of this corpus has been compared yet.
 - The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
 - One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
 - Tables are one line per row, cells separated by " | "; images are left out.
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
 
 ## What AI did and did not do
 
@@ -25410,6 +25740,12 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
