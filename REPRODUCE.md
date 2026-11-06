@@ -447,6 +447,10 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual: texto original and texto com alterações of each norma | <https://www.al.sp.gov.br/legislacao> | 2026-11-06 | Texts: Assembleia Legislativa do Estado de São Paulo (ALESP), Legislação Estadual, www.al.sp.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -22806,20 +22810,187 @@ Nuporanga, o imóvel que especifica.) | 1 | 2009-09-25 to 2009-09-25 |
 | `decreto-lei-1970-0258` | Decreto-Lei nº 258, de 29/05/1970 (Dispõe sobre a criação, como entidade autárquica, do Fomento de Urbanização e Melhoria das Estâncias - "FUMEST" ) | 1 | 1970-05-30 to 1970-05-30 |
 | `decreto-lei-1970-0259` | Decreto-Lei nº 259, de 29/05/1970 (Institui, como Estância Hidromineral, o Município de Lindóia) | 1 | 1970-05-30 to 1970-05-30 |
 | `decreto-lei-1970-0260` | Decreto-Lei nº 260, de 29/05/1970 (Dispõe sôbre a inatividade dos componentes da Polícia Militar do Estado de São Paulo) | 1 | 2026-01-06 to 2026-01-06 |
+| `decreto-2026-70792` | Decreto nº 70.792, de 11/08/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Parcerias em Investimentos, visando ao atendimento de Despesas de Capital.) | 1 | 2026-08-12 to 2026-08-12 |
+| `decreto-2026-70793` | Decreto nº 70.793, de 13/08/2026 | 1 | 2026-08-14 to 2026-08-14 |
+| `decreto-2026-70794` | Decreto nº 70.794, de 13/08/2026 | 1 | 2026-08-14 to 2026-08-14 |
+| `decreto-2026-70795` | Decreto nº 70.795, de 18/08/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Universidade de São Paulo-USP, visando ao atendimento de Despesas Correntes.) | 1 | 2026-08-19 to 2026-08-19 |
+| `decreto-2026-70796` | Decreto nº 70.796, de 18/08/2026 | 1 | 2026-08-19 to 2026-08-19 |
+| `decreto-2026-70797` | Decreto nº 70.797, de 20/08/2026 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Trabiju, que declarou Situação de Emergência em áreas do Município.) | 1 | 2026-08-21 to 2026-08-21 |
+| `decreto-2026-70798` | Decreto nº 70.798, de 20/08/2026 | 1 | 2026-08-21 to 2026-08-21 |
+| `decreto-2026-70799` | Decreto nº 70.799, de 20/08/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2026-08-21 to 2026-08-21 |
+| `decreto-2026-70800` | Decreto nº 70.800, de 20/08/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas de Capital.) | 1 | 2026-08-21 to 2026-08-21 |
+| `decreto-2026-70801` | Decreto nº 70.801, de 20/08/2026 | 1 | 2026-08-21 to 2026-08-21 |
+| `decreto-2026-70802` | Decreto nº 70.802, de 20/08/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Gestão e Governo Digital, visando ao atendimento de Despesas Correntes.) | 1 | 2026-08-21 to 2026-08-21 |
+| `decreto-2026-70803` | Decreto nº 70.803, de 20/08/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Comunicação, visando ao atendimento de Despesas Correntes.) | 1 | 2026-08-21 to 2026-08-21 |
+| `decreto-2026-70804` | Decreto nº 70.804, de 20/08/2026 | 1 | 2026-08-21 to 2026-08-21 |
+| `decreto-2026-70805` | Decreto nº 70.805, de 20/08/2026 | 1 | 2026-08-21 to 2026-08-21 |
+| `decreto-2026-70806` | Decreto nº 70.806, de 20/08/2026 | 1 | 2026-08-21 to 2026-08-21 |
+| `decreto-2026-70807` | Decreto nº 70.807, de 20/08/2026 | 1 | 2026-08-21 to 2026-08-21 |
+| `decreto-2026-70808` | Decreto nº 70.808, de 24/08/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Gestão e Governo Digital, visando ao atendimento de Despesas de Capital.) | 1 | 2026-08-25 to 2026-08-25 |
+| `decreto-2026-70809` | Decreto nº 70.809, de 24/08/2026 | 1 | 2026-08-25 to 2026-08-25 |
+| `decreto-2026-70810` | Decreto nº 70.810, de 24/08/2026 | 1 | 2026-08-25 to 2026-08-25 |
+| `decreto-2026-70811` | Decreto nº 70.811, de 24/08/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Administração Geral do Estado, visando ao atendimento de Despesas Correntes.) | 1 | 2026-08-25 to 2026-08-25 |
+| `decreto-2026-70812` | Decreto nº 70.812, de 24/08/2026 | 1 | 2026-08-25 to 2026-08-25 |
+| `decreto-2026-70813` | Decreto nº 70.813, de 24/08/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas Correntes.) | 1 | 2026-08-25 to 2026-08-25 |
+| `decreto-2026-70814` | Decreto nº 70.814, de 24/08/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas de Capital.) | 1 | 2026-08-25 to 2026-08-25 |
+| `decreto-2026-70815` | Decreto nº 70.815, de 24/08/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Agricultura e Abastecimento, visando ao atendimento de Despesas de Capital.) | 1 | 2026-08-25 to 2026-08-25 |
+| `decreto-2026-70816` | Decreto nº 70.816, de 25/08/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Esportes, visando ao atendimento de Despesas Correntes.) | 1 | 2026-08-26 to 2026-08-26 |
+| `decreto-2026-70817` | Decreto nº 70.817, de 25/08/2026 | 1 | 2026-08-26 to 2026-08-26 |
+| `decreto-2026-70818` | Decreto nº 70.818, de 25/08/2026 (Transfere os cargos que especifica e dá providências correlatas.) | 1 | 2026-08-26 to 2026-08-26 |
+| `decreto-2026-70819` | Decreto nº 70.819, de 25/08/2026 | 1 | 2026-08-26 to 2026-08-26 |
+| `decreto-2026-70820` | Decreto nº 70.820, de 25/08/2026 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Pontal, o imóvel que especifica.) | 1 | 2026-08-26 to 2026-08-26 |
+| `decreto-2026-70821` | Decreto nº 70.821, de 25/08/2026 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Guaíra, o imóvel que especifica.) | 1 | 2026-08-26 to 2026-08-26 |
+| `decreto-2026-70822` | Decreto nº 70.822, de 25/08/2026 | 1 | 2026-08-26 to 2026-08-26 |
+| `decreto-2026-70823` | Decreto nº 70.823, de 25/08/2026 | 1 | 2026-08-26 to 2026-08-26 |
+| `decreto-2026-70824` | Decreto nº 70.824, de 27/08/2026 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Campinas, o imóvel que especifica.) | 1 | 2026-08-28 to 2026-08-28 |
+| `decreto-2026-70825` | Decreto nº 70.825, de 27/08/2026 | 1 | 2026-08-28 to 2026-08-28 |
+| `decreto-2026-70826` | Decreto nº 70.826, de 27/08/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas Correntes.) | 1 | 2026-08-28 to 2026-08-28 |
+| `decreto-2026-70827` | Decreto nº 70.827, de 27/08/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Fazenda e Planejamento, visando ao atendimento de Despesas Correntes.) | 1 | 2026-08-28 to 2026-08-28 |
+| `decreto-2026-70828` | Decreto nº 70.828, de 27/08/2026 | 1 | 2026-08-28 to 2026-08-28 |
+| `decreto-2026-70829` | Decreto nº 70.829, de 27/08/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Esportes, visando ao atendimento de Despesas de Capital.) | 1 | 2026-08-28 to 2026-08-28 |
+| `decreto-2026-70830` | Decreto nº 70.830, de 27/08/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes e de Capital.) | 1 | 2026-08-28 to 2026-08-28 |
+| `decreto-2026-70831` | Decreto nº 70.831, de 27/08/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Segurança Pública, visando ao atendimento de Despesas de Capital.) | 1 | 2026-08-28 to 2026-08-28 |
+| `decreto-2026-70832` | Decreto nº 70.832, de 27/08/2026 | 1 | 2026-08-28 to 2026-08-28 |
+| `decreto-2026-70833` | Decreto nº 70.833, de 27/08/2026 | 1 | 2026-08-28 to 2026-08-28 |
+| `decreto-2026-70834` | Decreto nº 70.834, de 27/08/2026 | 1 | 2026-08-28 to 2026-08-28 |
+| `decreto-2026-70835` | Decreto nº 70.835, de 01/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Parcerias em Investimentos, visando ao atendimento de Despesas de Capital.) | 1 | 2026-09-02 to 2026-09-02 |
+| `decreto-2026-70836` | Decreto nº 70.836, de 01/09/2026 | 1 | 2026-09-02 to 2026-09-02 |
+| `decreto-2026-70837` | Decreto nº 70.837, de 01/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Administração Geral do Estado, visando ao atendimento de Despesas Correntes e de Capital.) | 1 | 2026-09-02 to 2026-09-02 |
+| `decreto-2026-70838` | Decreto nº 70.838, de 01/09/2026 | 1 | 2026-09-02 to 2026-09-02 |
+| `decreto-2026-70839` | Decreto nº 70.839, de 01/09/2026 | 1 | 2026-09-02 to 2026-09-02 |
+| `decreto-2026-70840` | Decreto nº 70.840, de 01/09/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Controladoria Geral do Estado, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-02 to 2026-09-02 |
+| `decreto-2026-70841` | Decreto nº 70.841, de 01/09/2026 | 1 | 2026-09-02 to 2026-09-02 |
+| `decreto-2026-70842` | Decreto nº 70.842, de 01/09/2026 | 1 | 2026-09-02 to 2026-09-02 |
+| `decreto-2026-70843` | Decreto nº 70.843, de 03/09/2026 (Dispõe sobre a classificação institucional da Casa Civil nos Sistemas de Administração Financeira e Orçamentária do Estado.) | 1 | 2026-09-04 to 2026-09-04 |
+| `decreto-2026-70844` | Decreto nº 70.844, de 03/09/2026 | 1 | 2026-09-04 to 2026-09-04 |
+| `decreto-2026-70845` | Decreto nº 70.845, de 03/09/2026 | 1 | 2026-09-04 to 2026-09-04 |
+| `decreto-2026-70846` | Decreto nº 70.846, de 03/09/2026 (Altera a classificação institucional da Secretaria da Saúde nos Sistemas de Administração Financeira e Orçamentária do Estado.) | 1 | 2026-09-04 to 2026-09-04 |
+| `decreto-2026-70847` | Decreto nº 70.847, de 09/09/2026 | 1 | 2026-09-10 to 2026-09-10 |
+| `decreto-2026-70848` | Decreto nº 70.848, de 09/09/2026 | 1 | 2026-09-10 to 2026-09-10 |
+| `decreto-2026-70849` | Decreto nº 70.849, de 09/09/2026 | 1 | 2026-09-10 to 2026-09-10 |
+| `decreto-2026-70850` | Decreto nº 70.850, de 09/09/2026 (Transfere, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Lins.) | 1 | 2026-09-10 to 2026-09-10 |
+| `decreto-2026-70851` | Decreto nº 70.851, de 09/09/2026 | 1 | 2026-09-10 to 2026-09-10 |
+| `decreto-2026-70852` | Decreto nº 70.852, de 09/09/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas de Capital.) | 1 | 2026-09-10 to 2026-09-10 |
+| `decreto-2026-70853` | Decreto nº 70.853, de 09/09/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal em Diversos Órgãos da Administração Pública, visando ao atendimento de Despesas Correntes) | 1 | 2026-09-10 to 2026-09-10 |
+| `decreto-2026-70854` | Decreto nº 70.854, de 10/09/2026 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Itararé, que declarou Situação de Emergência em áreas do Município.) | 1 | 2026-09-11 to 2026-09-11 |
+| `decreto-2026-70855` | Decreto nº 70.855, de 10/09/2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `decreto-2026-70856` | Decreto nº 70.856, de 10/09/2026 (Institui a Medalha do "Cinquentenário do Décimo Primeiro Batalhão de Polícia Militar do Interior " e dá providências correlatas.) | 1 | 2026-09-11 to 2026-09-11 |
+| `decreto-2026-70857` | Decreto nº 70.857, de 10/09/2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `decreto-2026-70858` | Decreto nº 70.858, de 13/09/2026 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Eldorado, que declarou Situação de Emergência em áreas do Município.) | 1 | 2026-09-13 to 2026-09-13 |
+| `decreto-2026-70859` | Decreto nº 70.859, de 13/09/2026 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Santa Isabel, o imóvel que especifica.
+) | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70860` | Decreto nº 70.860, de 13/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70861` | Decreto nº 70.861, de 13/09/2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70862` | Decreto nº 70.862, de 13/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Fazenda e Planejamento, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70863` | Decreto nº 70.863, de 13/09/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Segurança Pública, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70864` | Decreto nº 70.864, de 13/09/2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70865` | Decreto nº 70.865, de 13/09/2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70866` | Decreto nº 70.866, de 13/09/2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70867` | Decreto nº 70.867, de 13/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70868` | Decreto nº 70.868, de 13/09/2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70869` | Decreto nº 70.869, de 14/09/2026 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Piracaia, que declarou Situação de Emergência em áreas do Município.) | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70870` | Decreto nº 70.870, de 14/09/2026 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Barra do Turvo, que declarou Situação de Emergência em áreas do Município.) | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70871` | Decreto nº 70.871, de 14/09/2026 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Ribeira, que declarou Situação de Emergência em áreas do Município.) | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70872` | Decreto nº 70.872, de 14/09/2026 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Iporanga, que declarou Situação de Emergência em áreas do Município.) | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70873` | Decreto nº 70.873, de 14/09/2026 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Registro, que declarou Situação de Emergência em áreas do Município.) | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70874` | Decreto nº 70.874, de 14/09/2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `decreto-2026-70875` | Decreto nº 70.875, de 16/09/2026 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Iguape, que declarou Situação de Emergência em áreas do Município.) | 1 | 2026-09-16 to 2026-09-16 |
+| `decreto-2026-70876` | Decreto nº 70.876, de 16/09/2026 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Sete Barras, que declarou Situação de Emergência em áreas do Município.) | 1 | 2026-09-16 to 2026-09-16 |
+| `decreto-2026-70877` | Decreto nº 70.877, de 16/09/2026 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Itaquaquecetuba, que declarou Situação de Emergência em áreas do Município.) | 1 | 2026-09-16 to 2026-09-16 |
+| `decreto-2026-70878` | Decreto nº 70.878, de 18/09/2026 (Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Juquitiba, que declarou Situação de Emergência em áreas do Município.) | 1 | 2026-09-18 to 2026-09-18 |
+| `decreto-2026-70879` | Decreto nº 70.879, de 18/09/2026 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Ribeirão Preto, o imóvel que especifica.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70880` | Decreto nº 70.880, de 18/09/2026 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Ribeirão Preto, o imóvel que especifica.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70881` | Decreto nº 70.881, de 18/09/2026 (Institui a Medalha do Mérito Professor Dr. Manoel Pedro Pimentel da Fundação "Professor Dr. Manoel Pedro Pimentel" - FUNAP e dá providências correlatas.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70882` | Decreto nº 70.882, de 18/09/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Gestão e Governo Digital, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70883` | Decreto nº 70.883, de 18/09/2026 | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70884` | Decreto nº 70.884, de 18/09/2026 | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70885` | Decreto nº 70.885, de 18/09/2026 | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70886` | Decreto nº 70.886, de 18/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Agricultura e Abastecimento, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70887` | Decreto nº 70.887, de 18/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Gestão e Governo Digital, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70888` | Decreto nº 70.888, de 18/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Comunicação, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70889` | Decreto nº 70.889, de 18/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Desenvolvimento Econômico, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70890` | Decreto nº 70.890, de 18/09/2026 | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70891` | Decreto nº 70.891, de 18/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70892` | Decreto nº 70.892, de 18/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70893` | Decreto nº 70.893, de 18/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Desenvolvimento Econômico, visando ao atendimento de Despesas de Capital.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70894` | Decreto nº 70.894, de 18/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas de Capital.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70895` | Decreto nº 70.895, de 18/09/2026 | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70896` | Decreto nº 70.896, de 18/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Segurança Pública, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70897` | Decreto nº 70.897, de 18/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Justiça e Cidadania, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70898` | Decreto nº 70.898, de 18/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Procuradoria Geral do Estado, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70899` | Decreto nº 70.899, de 18/09/2026 | 1 | 2026-09-21 to 2026-09-21 |
+| `decreto-2026-70900` | Decreto nº 70.900, de 25/09/2026 (Institui a Medalha "Cinquentenário do Comando de Policiamento de Área Metropolitana - 1" e dá providências correlatas.) | 1 | 2026-09-28 to 2026-09-28 |
+| `decreto-2026-70901` | Decreto nº 70.901, de 25/09/2026 (Autoriza a Fazenda do Estado a receber, mediante cessão de uso onerosa, por prazo determinado, o imóvel que especifica, de propriedade da União.) | 1 | 2026-09-28 to 2026-09-28 |
+| `decreto-2026-70902` | Decreto nº 70.902, de 25/09/2026 | 1 | 2026-09-28 to 2026-09-28 |
+| `decreto-2026-70903` | Decreto nº 70.903, de 25/09/2026 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Guarulhos, o imóvel que especifica.) | 1 | 2026-09-28 to 2026-09-28 |
+| `decreto-2026-70904` | Decreto nº 70.904, de 25/09/2026 (Ratifica convênios celebrados nos termos da Lei Complementar federal nº 24, de 7 de janeiro de 1975.) | 1 | 2026-09-28 to 2026-09-28 |
+| `decreto-2026-70905` | Decreto nº 70.905, de 25/09/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Fazenda e Planejamento, visando ao atendimento de Despesas Correntes.) | 1 | 2026-09-28 to 2026-09-28 |
+| `decreto-2026-70906` | Decreto nº 70.906, de 25/09/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Segurança Pública, visando ao atendimento de Despesas de Capital.) | 1 | 2026-09-28 to 2026-09-28 |
+| `decreto-2026-70907` | Decreto nº 70.907, de 25/09/2026 | 1 | 2026-09-28 to 2026-09-28 |
+| `decreto-2026-70908` | Decreto nº 70.908, de 25/09/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Parcerias em Investimentos, visando ao atendimento de Despesas de Capital.) | 1 | 2026-09-28 to 2026-09-28 |
+| `decreto-2026-70909` | Decreto nº 70.909, de 30/09/2026 | 1 | 2026-10-01 to 2026-10-01 |
+| `decreto-2026-70910` | Decreto nº 70.910, de 30/09/2026 (Transfere os cargos e as funções-atividades que especifica e dá providências correlatas.) | 1 | 2026-10-01 to 2026-10-01 |
+| `decreto-2026-70911` | Decreto nº 70.911, de 30/09/2026 (Institui a Medalha "Cinquentenário do Décimo Sétimo Batalhão de Polícia Militar Metropolitano" e dá providências correlatas.) | 1 | 2026-10-01 to 2026-10-01 |
+| `decreto-2026-70912` | Decreto nº 70.912, de 30/09/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-01 to 2026-10-01 |
+| `decreto-2026-70913` | Decreto nº 70.913, de 30/09/2026 | 1 | 2026-10-01 to 2026-10-01 |
+| `decreto-2026-70914` | Decreto nº 70.914, de 30/09/2026 | 1 | 2026-10-01 to 2026-10-01 |
+| `decreto-2026-70915` | Decreto nº 70.915, de 30/09/2026 (Autoriza a outorga de uso do imóvel que especifica à Fundação Nacional dos Povos Indígenas - FUNAI e dá providências correlatas.) | 1 | 2026-10-01 to 2026-10-01 |
+| `decreto-2026-70916` | Decreto nº 70.916, de 02/10/2026 | 1 | 2026-10-02 to 2026-10-02 |
+| `decreto-2026-70917` | Decreto nº 70.917, de 02/10/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal no Ministério Público, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-02 to 2026-10-02 |
+| `decreto-2026-70918` | Decreto nº 70.918, de 02/10/2026 | 1 | 2026-10-05 to 2026-10-05 |
+| `decreto-2026-70919` | Decreto nº 70.919, de 02/10/2026 | 1 | 2026-10-05 to 2026-10-05 |
+| `decreto-2026-70920` | Decreto nº 70.920, de 02/10/2026 | 1 | 2026-10-05 to 2026-10-05 |
+| `decreto-2026-70921` | Decreto nº 70.921, de 02/10/2026 | 1 | 2026-10-05 to 2026-10-05 |
+| `decreto-2026-70922` | Decreto nº 70.922, de 02/10/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Gestão e Governo Digital, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-05 to 2026-10-05 |
+| `decreto-2026-70923` | Decreto nº 70.923, de 02/10/2026 | 1 | 2026-10-05 to 2026-10-05 |
+| `decreto-2026-70924` | Decreto nº 70.924, de 02/10/2026 (Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Campinas, o imóvel que especifica.) | 1 | 2026-10-05 to 2026-10-05 |
+| `decreto-2026-70925` | Decreto nº 70.925, de 02/10/2026 | 1 | 2026-10-05 to 2026-10-05 |
+| `decreto-2026-70926` | Decreto nº 70.926, de 14/10/2026 | 1 | 2026-10-15 to 2026-10-15 |
+| `decreto-2026-70927` | Decreto nº 70.927, de 14/10/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Controladoria Geral do Estado, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-15 to 2026-10-15 |
+| `decreto-2026-70928` | Decreto nº 70.928, de 19/10/2026 | 1 | 2026-10-20 to 2026-10-20 |
+| `decreto-2026-70929` | Decreto nº 70.929, de 19/10/2026 | 1 | 2026-10-20 to 2026-10-20 |
+| `decreto-2026-70930` | Decreto nº 70.930, de 19/10/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Faculdade de Medicina de Marília - FAMEMA, visando ao atendimento de Despesas de Capital.) | 1 | 2026-10-20 to 2026-10-20 |
+| `decreto-2026-70931` | Decreto nº 70.931, de 19/10/2026 | 1 | 2026-10-20 to 2026-10-20 |
+| `decreto-2026-70932` | Decreto nº 70.932, de 19/10/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento da Seguridade Social na Secretaria da Saúde, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-20 to 2026-10-20 |
+| `decreto-2026-70933` | Decreto nº 70.933, de 19/10/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-20 to 2026-10-20 |
+| `decreto-2026-70934` | Decreto nº 70.934, de 19/10/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Ciência, Tecnologia e Inovação, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-20 to 2026-10-20 |
+| `decreto-2026-70935` | Decreto nº 70.935, de 19/10/2026 | 1 | 2026-10-20 to 2026-10-20 |
+| `decreto-2026-70936` | Decreto nº 70.936, de 20/10/2026 (Ratifica convênio celebrado nos termos da Lei Complementar federal nº 24, de 7 de janeiro de 1975.) | 1 | 2026-10-21 to 2026-10-21 |
+| `decreto-2026-70937` | Decreto nº 70.937, de 20/10/2026 | 1 | 2026-10-21 to 2026-10-21 |
+| `decreto-2026-70938` | Decreto nº 70.938, de 27/10/2026 (Transfere os cargos e a função-atividade que especifica e dá providências correlatas.) | 1 | 2026-10-28 to 2026-10-28 |
+| `decreto-2026-70939` | Decreto nº 70.939, de 27/10/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas de Capital.) | 1 | 2026-10-28 to 2026-10-28 |
+| `decreto-2026-70940` | Decreto nº 70.940, de 27/10/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Políticas para a Mulher, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-28 to 2026-10-28 |
+| `decreto-2026-70941` | Decreto nº 70.941, de 27/10/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Casa Civil, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-28 to 2026-10-28 |
+| `decreto-2026-70942` | Decreto nº 70.942, de 27/10/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Fazenda e Planejamento, visando ao atendimento de Despesas de Capital.) | 1 | 2026-10-28 to 2026-10-28 |
+| `decreto-2026-70943` | Decreto nº 70.943, de 27/10/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Segurança Pública, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-28 to 2026-10-28 |
+| `decreto-2026-70944` | Decreto nº 70.944, de 27/10/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Agricultura e Abastecimento, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-28 to 2026-10-28 |
+| `decreto-2026-70945` | Decreto nº 70.945, de 27/10/2026 | 1 | 2026-10-28 to 2026-10-28 |
+| `decreto-2026-70946` | Decreto nº 70.946, de 27/10/2026 | 1 | 2026-10-28 to 2026-10-28 |
+| `decreto-2026-70947` | Decreto nº 70.947, de 27/10/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Justiça e Cidadania, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-28 to 2026-10-28 |
+| `decreto-2026-70948` | Decreto nº 70.948, de 27/10/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria de Esportes, visando ao atendimento de Despesas Correntes e de Capital.) | 1 | 2026-10-28 to 2026-10-28 |
+| `decreto-2026-70949` | Decreto nº 70.949, de 27/10/2026 | 1 | 2026-10-28 to 2026-10-28 |
+| `decreto-2026-70950` | Decreto nº 70.950, de 28/10/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Procuradoria Geral do Estado, visando ao atendimento de Despesas Correntes.) | 1 | 2026-10-29 to 2026-10-29 |
+| `decreto-2026-70951` | Decreto nº 70.951, de 03/11/2026 (Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal em Diversos Órgãos da Administração Pública, visando ao atendimento de Despesas Correntes.) | 1 | 2026-11-03 to 2026-11-03 |
+| `decreto-2026-70952` | Decreto nº 70.952, de 03/11/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal no Ministério Público, visando ao atendimento de Despesas Correntes.) | 1 | 2026-11-03 to 2026-11-03 |
+| `decreto-2026-70953` | Decreto nº 70.953, de 03/11/2026 | 1 | 2026-11-03 to 2026-11-03 |
+| `decreto-2026-70954` | Decreto nº 70.954, de 03/11/2026 (Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Secretaria da Educação, visando ao atendimento de Despesas Correntes.) | 1 | 2026-11-03 to 2026-11-03 |
+| `decreto-2026-70955` | Decreto nº 70.955, de 03/11/2026 | 1 | 2026-11-03 to 2026-11-03 |
+| `decreto-2026-70956` | Decreto nº 70.956, de 03/11/2026 (Altera a classificação institucional da Secretaria da Fazenda e Planejamento nos Sistemas de Administração Financeira e Orçamentária do Estado.) | 1 | 2026-11-04 to 2026-11-04 |
+| `decreto-2026-70957` | Decreto nº 70.957, de 04/11/2026 | 1 | 2026-11-05 to 2026-11-05 |
 
-The build made 21909 commits:
+The build made 22075 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 21909 | first version of an act |
+| 22075 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 2 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 2759 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 21909 laws in the record.
-- 43138 tags.
+- 22075 laws in the record.
+- 43470 tags.
 
 ## Dates
 
@@ -22831,7 +23002,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8c510b72ef28953c57614fffd85682081e1cdca6a9131ffb00e079a9cc7f360e` (83158361 bytes).
+- Corpus: sha256 `6781ad679ac9cbc1f2b330db3d6c982db5e7a3151e7cb03607f0005f6d3e047d` (83807490 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -24607,6 +24778,22 @@ No second build of this corpus has been compared yet.
 - The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
 - One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
 - Tables are one line per row, cells separated by " | "; images are left out.
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the portal shows no alteration for is given as enacted (ALESP "texto original"), credited to the act itself and dated by its publication in the Diário Oficial. An altered act is given only as the text in force (ALESP "texto com alterações"), credited to ALESP as the oldest version available and dated by the latest date among the alterations the portal cites (its alteration notes, its "última atualização" line and the constitutional actions it lists). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one.
+- The text in force leaves out what the portal strikes through (earlier wordings) and its alteration notes (paragraphs in italics starting with "-", such as "- Caput com redação dada pela ..."); markers such as "(NR)" that are part of the text are kept. Anything struck through in a "texto original" page is left out too.
+- One file per Artigo (articles of the Ato das Disposições Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
 
 ## What AI did and did not do
 
@@ -24617,6 +24804,10 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALESP pages.
